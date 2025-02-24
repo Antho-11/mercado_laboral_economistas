@@ -26,11 +26,11 @@ library(readxl)
 
 #Primero llamamos a todas las df que tenemos guardadas 
 
-df_1 <- readRDS("02_datos_sin_limpiar/demanda_economista_freelancer.rds")
-df_2 <- readRDS("02_datos_sin_limpiar/df_datos_computrabajo_2025_01.rds")
-df_3 <- readRDS("02_datos_sin_limpiar/df_datos_empleate_2025_01.rds")
-df_5 <- readRDS("02_datos_sin_limpiar/df_datos_trabajo_org.rds")
-df_6 <- readRDS("02_datos_sin_limpiar/df_datos_trabajosdiarios_2025_01.rds")
+df_1 <- readRDS("01_datos_sin_limpiar/demanda_economista_freelancer.rds")
+df_2 <- readRDS("01_datos_sin_limpiar/df_datos_computrabajo_2025_01.rds")
+df_3 <- readRDS("01_datos_sin_limpiar/df_datos_empleate_2025_01.rds")
+df_5 <- readRDS("01_datos_sin_limpiar/df_datos_trabajo_org.rds")
+df_6 <- readRDS("01_datos_sin_limpiar/df_datos_trabajosdiarios_2025_01.rds")
 
 df_1 <- df_1%>%
   rename(descripcción = descripcion_del_trabajo)
@@ -51,7 +51,7 @@ df_completo <- df_completo%>%
   )%>%
   as_tibble()
 
-saveRDS(df_completo,"02_datos_sin_limpiar/df_completo.rds")
+saveRDS(df_completo,"01_datos_sin_limpiar/df_completo.rds")
 
 ofertas_extraidas <- length(df_completo$descripción)
 
@@ -140,7 +140,7 @@ for (i in 1:ofertas_extraidas) {
   )
 }
 
-saveRDS(df_completo, "04_datos_limpios/df_datos_limpio.rds")
+saveRDS(df_completo, "03_datos_limpios/df_datos_limpio.rds")
 
 
 ################################################################################
@@ -383,7 +383,7 @@ for(i in 1:nrow(df_completo)){
   }
 }
 
-saveRDS(df_recolectado, "04_datos_limpios/df_recolectado.rds")
+saveRDS(df_recolectado, "03_datos_limpios/df_recolectado.rds")
 
 
 ################################################################################
@@ -550,7 +550,7 @@ for(i in 1:nrow(df_completo)){
 }
 
 
-saveRDS(df_recolectado, "04_datos_limpios/df_puestos.rds")
+saveRDS(df_recolectado, "03_datos_limpios/df_puestos.rds")
 
 ################################################################################
 #              Establecer las categorias para Experiencia                      #
@@ -709,7 +709,7 @@ for(i in 1:nrow(df_completo)){
   }
 }
 
-saveRDS(df_recolectado, "04_datos_limpios/df_experiencia.rds")
+saveRDS(df_recolectado, "03_datos_limpios/df_experiencia.rds")
 ################################################################################
 #              Establecer las categorias para Experiencia                          #
 ################################################################################
@@ -871,7 +871,7 @@ for(i in 1:nrow(df_completo)){
   }
 }
 
-saveRDS(df_recolectado, "04_datos_limpios/df_educacion.rds")
+saveRDS(df_recolectado, "03_datos_limpios/df_educacion.rds")
 
 
 ################################################################################
@@ -879,7 +879,7 @@ saveRDS(df_recolectado, "04_datos_limpios/df_educacion.rds")
 ################################################################################
 
 
-df_completo <- read_excel("02_datos_sin_limpiar/Experiencia_con_el_Mercado_Laboral_de_Economistas_(Respuestas).xlsx") 
+df_completo <- read_excel("01_datos_sin_limpiar/Experiencia_con_el_Mercado_Laboral_de_Economistas_(Respuestas).xlsx") 
 df_completo <- df_completo%>%
   as.tibble()
 
@@ -1017,4 +1017,4 @@ for(i in 1:nrow(df_completo)){
   }
 }
 
-saveRDS(df_recolectado, "04_datos_limpios/df_encuestas.rds")
+saveRDS(df_recolectado, "03_datos_limpios/df_encuestas.rds")

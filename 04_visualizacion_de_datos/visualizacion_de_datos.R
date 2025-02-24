@@ -15,10 +15,10 @@ library(treemap)
 library(treemapify)
 
 
-df_recolectado <- readRDS("04_datos_limpios/df_recolectado.rds")
-df_educacion <- readRDS("04_datos_limpios/df_educacion.rds")
-df_experiencia <- readRDS("04_datos_limpios/df_experiencia.rds")
-df_puestos <- readRDS("04_datos_limpios/df_puestos.rds")
+df_recolectado <- readRDS("03_datos_limpios/df_recolectado.rds")
+df_educacion <- readRDS("03_datos_limpios/df_educacion.rds")
+df_experiencia <- readRDS("03_datos_limpios/df_experiencia.rds")
+df_puestos <- readRDS("03_datos_limpios/df_puestos.rds")
 
 ################################################################################
 #         HACEMOS UN HISTOGRAMA DE FRECUENCIA DE HABILIDADES                   #
@@ -48,7 +48,7 @@ df_counts_long_habilidades <- df_counts %>%
     values_to = "Cantidad"
   )
 
-saveRDS(df_counts_long_habilidades, "05_script_visualización/df_counts_long_habilidades.rds")
+saveRDS(df_counts_long_habilidades, "04_script_visualización/df_counts_long_habilidades.rds")
 # Crear gráfico de barras
 histrograma_de_frecuencia <- ggplot(data=df_counts_long_habilidades,
                                     aes(x= Cantidad,
@@ -95,7 +95,7 @@ df_frecuencia <- df_combinaciones %>%
   count(Combinacion, sort = TRUE)%>%
   filter(Combinacion != "Ninguna")
 
-saveRDS(df_frecuencia, "05_script_visualización/df_frecuencia.rds")
+saveRDS(df_frecuencia, "04_script_visualización/df_frecuencia.rds")
 
 # Función para generar colores pastel
 colores_pastel <- function(n) {
@@ -127,7 +127,7 @@ grafico_mosaico
 #         HACEMOS UN HISTOGRAMA DE FRECUENCIA DE PUESTOS                       #
 ################################################################################
 
-df_counts <- readRDS("04_datos_limpios/df_puestos.rds") %>%
+df_counts <- readRDS("03_datos_limpios/df_puestos.rds") %>%
   summarise(
     Finanzas = sum(Finanzas, na.rm = TRUE),
     Investigación = sum(Investigación, na.rm = TRUE),
@@ -145,7 +145,7 @@ df_counts_long_puestos <- df_counts %>%
   )
 
 
-saveRDS(df_counts_long_puestos, "05_script_visualización/df_counts_long_puestos.rds")
+saveRDS(df_counts_long_puestos, "04_script_visualización/df_counts_long_puestos.rds")
 
 # Crear gráfico de barras
 histrograma_de_frecuencia <- ggplot(data=df_counts_long_puestos,
@@ -167,7 +167,7 @@ histrograma_de_frecuencia_puestos
 #         HACEMOS UN HISTOGRAMA DE FRECUENCIA DE EXPERIENCIA                   #
 ################################################################################
 
-df_counts <- readRDS("04_datos_limpios/df_experiencia.rds") %>%
+df_counts <- readRDS("03_datos_limpios/df_experiencia.rds") %>%
   summarise(
     Experiencia_1_año = sum(Experiencia_1_año, na.rm = TRUE),
     Experiencia_5_años = sum(Experiencia_5_años, na.rm = TRUE),
@@ -182,7 +182,7 @@ df_counts_long_experiencia <- df_counts %>%
     values_to = "Cantidad"
   )
 
-saveRDS(df_counts_long_experiencia, "05_script_visualización/df_counts_long_experiencia.rds")
+saveRDS(df_counts_long_experiencia, "04_script_visualización/df_counts_long_experiencia.rds")
 
 
 # Crear gráfico de barras
@@ -205,7 +205,7 @@ histrograma_de_frecuencia_experiencia
 #         HACEMOS UN HISTOGRAMA DE FRECUENCIA DE EDUCACIÓN                     #
 ################################################################################
 
-df_counts <- readRDS("04_datos_limpios/df_educacion.rds") %>%
+df_counts <- readRDS("03_datos_limpios/df_educacion.rds") %>%
   summarise(
     Estudiante_de_pregrado = sum(Estudiante_de_pregrado, na.rm = TRUE),
     Pregrado = sum(Pregrado, na.rm = TRUE),
@@ -223,7 +223,7 @@ df_counts_long_educación <- df_counts %>%
     values_to = "Cantidad"
   )
 
-saveRDS(df_counts_long_educación, "05_script_visualización/df_counts_long_educacion.rds")
+saveRDS(df_counts_long_educación, "04_script_visualización/df_counts_long_educacion.rds")
 
 # Crear gráfico de barras
 histrograma_de_frecuencia <- ggplot(data=df_counts_long_educación,
@@ -250,7 +250,7 @@ histrograma_de_frecuencia_educacion
 library(dplyr)
 library(DT)
 
-df_completo <- readRDS("C:/Users/USUARIO/Documents/Trabajo_final/02_datos_sin_limpiar/df_completo.rds")
+df_completo <- readRDS("01_datos_sin_limpiar/df_completo.rds")
 
 df_completo <- df_completo%>%
   select(-c(nivel_educativo, edad, experiencia, habilidades, conocimientos_tecnicos, ID, salario_por_hora, fecha))%>%

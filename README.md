@@ -1,7 +1,7 @@
 Bienvenidos a este proyecto de investigación!
 
 
-Titulo de la investigación: *Por asignar*
+Titulo de la investigación: *Análisis del mercado laboral de los economistas en Venezuela*
 
 
 Objetivo: Recopilar y analizar cuales son las habilidades mas demandadas en la profesión de economistas para realizar una sugerencia

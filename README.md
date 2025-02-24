@@ -18,8 +18,8 @@ Docente y tutor del proyecto: javendaXgh (Jose Avendaño)
 
 
 ORDEN DE LECTURA
-- 01_scrapping_recolección_de_datos
-- 02_datos_sin_limpiar
-- 03_scripts_limpieza_de_datos
-- 04_datos_limpios
+- 01_datos_sin_limpiar
+- 02_scripts_limpieza_de_datos
+- 03_datos_limpios
+- 04_visualizacion_de_datos
   

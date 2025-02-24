@@ -1,0 +1,1390 @@
+{
+  "oferta_1": {
+    "requisitos_del_puesto_de_trabajo": ["periodista o economista", "apasionado por los mercados financieros", "experiencia escribiendo análisis y opiniones sobre empresas que cotizan en bolsa o eventos relevantes del mundo económico", "crear columnas de opinión semanal enfocadas en análisis de empresas que cotizan en bolsa o eventos financieros específicos", "Escribir artículos semanales (350-500 palabras) con un análisis profundo y opiniones fundamentadas"]
+  },
+  "oferta_2": {
+    "requisitos_del_puesto_de_trabajo": ["Elaboración de estudios coyunturales", "Elaboración de estudios sectoriales", "Elaboración de fichas académicas (de empresas, de negocios, de estudios del caso empresarial)", "Conocimiento de autores (Hayek, Antal Fekete, Rallo...)", "Conocimiento de mercados", "Conocimiento de negocios", "Conocimiento de estrategia empresarial", "Conocimiento de startup"]
+  },
+  "oferta_3": {
+    "requisitos_del_puesto_de_trabajo": ["economista", "reevaluar proyecto", "actualizar proyecto", "solicitud de habilitación ante Conatel Venezuela"]
+  },
+  "oferta_4": {
+    "tipo_peritaje": ["económico", "lucro cesante"],
+    "destinatario": ["particular"],
+    "realizador": ["encomienda", "perito"],
+    "base_calculo": ["últimas 3 declaraciones IRPF"]
+  },
+  "oferta_5": {
+    "requisitos_del_puesto_de_trabajo": {
+      "actividad": ["activo"],
+      "formacion": ["economista", "abogado"],
+      "experiencia": ["buscar licitaciones públicas", "tramitación completa de licitaciones"]
+    }
+  },
+  "oferta_6": {
+    "requisitos_del_puesto_de_trabajo": ["Edición de vídeos", "Edición mínima"]
+  },
+  "oferta_7": {
+    "habilidades_administrativas": [true],
+    "gestion_clientes": [true],
+    "liderazgo_equipos": [true],
+    "atencion_al_detalle": [true],
+    "profesion": ["administrador", "contador", "economista", "financiero", "ingeniero comercial", "ingeniero industrial", "ingeniero financiero", "publicista"],
+    "manejo_paquete_office": [true],
+    "dominio_redes_sociales": [true],
+    "buena_conexion_internet": [true]
+  },
+  "oferta_8": {
+    "requisitos_del_puesto_de_trabajo": {
+      "habilidades": ["administración de trabajo con clientes", "liderazgo de equipos", "atención al detalle"],
+      "formacion": ["administrador", "contador", "economista", "financiero", "ingeniero comercial", "ingeniero industrial", "ingeniero financiero", "publicitario"]
+    }
+  },
+  "oferta_9": {
+    "requisitos_del_puesto_de_trabajo": ["Área de programación en marketing en redes sociales", "Área de repartimiento de Flores", "Responsabilidad y disciplina en el área laboral", "Experiencia o especialidad certificada en economía (mínimo 2 años)", "Nivel de habla internacional profesional o 75% de inglés"]
+  },
+  "oferta_10": {
+    "requisitos_del_puesto_de_trabajo": ["área de programación en el marketing en redes sociales", "Área de repartimiento de flores", "Responsabilidad y disciplina en el área laborar", "Experiencia o se encuentra con una especialidad certificada en la inflación economista (mínimo de 2 años en adelante)", "Nivel del habla internacional profesional o con un mínimo de 75% en el ingles"]
+  },
+  "oferta_11": {
+    "requisitos_del_puesto_de_trabajo": ["conocimiento en economía", "capacidad de generar un plan autosustentable"]
+  },
+  "oferta_12": {
+    "requisitos_del_puesto_de_trabajo": ["Desarrollador BlockChain", "Desarrollador Web", "Diseñador Grafico", "Economista"]
+  },
+  "oferta_13": {
+    "requisitos_del_puesto_de_trabajo": {
+      "experiencia": ["programador blockchain", "alta experiencia"],
+      "habilidades": ["Solidity"],
+      "actitud": ["dispuesto a realizar este proyecto"]
+    }
+  },
+  "oferta_14": {
+    "requisitos_del_puesto_de_trabajo": ["redactores para trabajos académicos", "DERECHO", "BIOQUÍMICA", "INGENIERO MECÁNICO", "INGENIERO INDUSTRIAL", "ARTICULISTAS PARA REVISTAS Q1 Y Q2", "ECONOMISTA"]
+  },
+  "oferta_15": {
+    "requisitos_del_puesto_de_trabajo": ["Profesional titulado en la carrera de: ingeniería, ciencias naturales o economía", "experiencia en gestión de proyectos aplicados a la temática ambiental", "conocimientos avanzados del software MS Project", "certificación en gestión de proyectos (PMP)", "Buena dicción, fluidez y comunicación"]
+  },
+  "oferta_16": {
+    "requisitos_del_puesto_de_trabajo": {
+      "Formación": ["Economista graduado"],
+      "Habilidades": ["Realizar proyecto de factibilidad económica"],
+      "Tiempo": ["Menos de 5 días"]
+    }
+  },
+  "oferta_17": {
+    "requisitos_del_puesto_de_trabajo": ["Proyectos relacionados con la economía", "Conocimientos del sector turístico", "Conocimientos del sector sanitario", "Conocimientos del sector del transporte", "Prueba tipo TFG (remunerada) sobre economía del transporte"]
+  },
+  "oferta_18": {},
+  "oferta_19": {
+    "requisitos_del_puesto_de_trabajo": {
+      "educacion": ["Lic. en Administración", "Economista", "carreras afines"],
+      "idiomas": ["Inglés"],
+      "experiencia": [],
+      "habilidades": ["Revisión de suministros", "Análisis de inventario", "Estimaciones de demanda", "Chequeo de facturación", "Apertura de expedientes de proveedores"],
+      "tipo_contrato": ["por hora"]
+    }
+  },
+  "oferta_20": {
+    "requisitos_del_puesto_de_trabajo": {
+      "educacion": ["Lic. en Comercio Internacional", "Administración", "Economista", "carreras afines"],
+      "idiomas": ["Inglés"],
+      "habilidades": ["diseño de plan de compras", "seguimiento de compras", "planificación de compras", "garantía de calidad de insumos", "comunicación con proveedores internacionales"],
+      "tipo_contrato": ["por hora"]
+    }
+  },
+  "oferta_21": {
+    "requisitos_del_puesto_de_trabajo": ["15 ilustraciones", "3 ilustraciones para banner (3 páginas principales)", "12 ilustraciones pequeñas (cuerpo de páginas)", "estilo simplificado", "sin muchos detalles o elementos", "look moderno", "claro y específico", "comunicación rápida del mensaje"]
+  },
+  "oferta_22": {
+    "requisitos_del_puesto_de_trabajo": ["15 ilustraciones", "3 para banner (3 páginas)", "12 para cuerpo de páginas", "estilo simplificado", "sin muchos detalles o elementos", "look moderno", "claro y específico", "comunicación rápida del mensaje"]
+  },
+  "oferta_23": {
+    "requisitos_del_puesto_de_trabajo": [
+      {
+        "categoria": "Formación",
+        "valor": "Economista"
+      },
+      {
+        "categoria": "Habilidades",
+        "valor": "Econometría"
+      },
+      {
+        "categoria": "Habilidades",
+        "valor": "Estadística"
+      },
+      {
+        "categoria": "Habilidades",
+        "valor": "Interpretación de resultados (Tablas y Gráficos) de software R"
+      },
+      {
+        "categoria": "Habilidades",
+        "valor": "Redacción de comentarios para público no experto"
+      },
+      {
+        "categoria": "Experiencia",
+        "valor": "Comprensión de conceptos económicos relacionados con los datos"
+      }
+    ]
+  },
+  "oferta_24": {
+    "requisitos_del_puesto_de_trabajo": ["Vendedor", "Abogado", "Administrador", "Contador", "Ingeniero Civil", "Ingeniero Industrial", "Mercaderista", "Economista", "Profesor"]
+  },
+  "oferta_25": {
+    "area_conocimiento": ["Estadística", "Economía"],
+    "nivel_experiencia": ["Básica"],
+    "tipo_trabajo": ["Trabajo universitario"],
+    "formato_entrega": ["PDF"],
+    "paginas_especificas": ["43", "45"]
+  },
+  "oferta_26": {
+    "requisitos_del_puesto_de_trabajo": ["Economista graduado", "Buenas habilidades en excel", "Habilidades en finanzas"]
+  },
+  "oferta_27": {
+    "requisitos_del_puesto_de_trabajo": {
+      "numero_articulos": [10],
+      "longitud_articulos": ["700 palabras"],
+      "optimizacion_seo": [true],
+      "uso_viñetas": [true],
+      "referencias_cuadros": [true],
+      "diseno_grafico_cuadros": [false],
+      "periodicidad": ["frecuente"]
+    }
+  },
+  "oferta_28": {
+    "requisitos_del_puesto_de_trabajo": ["gestor para recibir y mandar trámites de la sistema de la hacienda"]
+  },
+  "oferta_29": {
+    "requisitos_del_puesto_de_trabajo": ["Escribir artículos", "Economista", "Amplios conocimientos en el área administrativa", "Amplios conocimientos en el área financiera", "Amplios conocimientos en el área comercial", "Recursos humanos", "Control y seguimiento de proyectos", "Comunicación asertiva", "Buena redacción"]
+  },
+  "oferta_30": {
+    "requisitos_del_puesto_de_trabajo": {
+      "area_experiencia": ["Economía"],
+      "habilidades_tecnicas": ["Modelado de negocios", "Análisis de demanda", "Cálculo de punto de equilibrio", "Optimización de costos", "Estrategia de precios", "Diseño de sistemas de comisiones", "Planificación de importaciones"],
+      "industria": ["Retail", "Ropa", "Productos para el hogar"],
+      "tipo_puesto": ["Economista"]
+    }
+  },
+  "oferta_31": {
+    "requisitos_del_puesto_de_trabajo": {
+      "edad": ["25 a 35 años"],
+      "escolaridad": ["Licenciatura en Mercadotecnia, Comunicación o afín"],
+      "experiencia": ["5 años en puestos similares"],
+      "habilidades": ["Manejo de lenguajes digitales para la producción y distribución de contenido", "Manejo de técnicas de Search Engine Optimization (SEO)", "Manejo de redes sociales", "Manejo de software de medición de tráfico y engagement (SocialBakers, Google Analytics, Cxense)"]
+    }
+  },
+  "oferta_32": {
+    "requisitos_del_puesto_de_trabajo": ["Visión de negocio", "Capacidad de liderazgo", "Fomentar la sana competitividad", "Ejecución de soluciones creativas y eficientes", "Economista/administrador", "Más de 6 años de experiencia en el área comercial", "Experiencia en diferentes roles comerciales"]
+  },
+  "oferta_33": {
+    "requisitos_del_puesto_de_trabajo": {
+      "habilidades": ["traducción"],
+      "tematica": ["mercado internacional", "monedas", "economía"],
+      "nivel_experiencia": ["plus si es economista o sabe de economía"]
+    }
+  },
+  "oferta_34": {},
+  "oferta_35": {
+    "requisitos_del_puesto_de_trabajo": ["Perfil economista", "Asesoramiento para estabilizar cuentas según legislación española", "Contabilidad de dos pequeñas empresas", "Asesoramiento para subir a programa (no especificado)", "Trazar plan de negocios (presentación y defensa)", "Digitalización de facturas (1000 aprox., 15 líneas cada una)", "Pase de datos de facturas a Excel", "Manejo de datos en Excel"]
+  },
+  "oferta_36": {
+    "requisitos_del_puesto_de_trabajo": {
+      "formacion": ["Ingeniero Industrial", "Economista", "Administrador", "carreras afines"],
+      "experiencia": ["más de 3 años diseñando e implementando sistemas/metodologías/procesos de gestión de riesgo (preferiblemente en instituciones financieras)"],
+      "responsabilidades": ["implementar soluciones para optimizar la gestión de riesgo", "desarrollo de gobierno corporativo", "controles para el cumplimiento normativo", "gap analysis de procesos y metodologías"],
+      "conocimientos": ["sistemas GRC", "plataformas GRC líderes en el mercado"]
+    }
+  },
+  "oferta_37": {
+    "Formación Académica": ["Ingeniería de Sistemas", "Ingeniería Informática", "Ingeniería Industrial", "Economía", "Contabilidad"],
+    "Certificaciones": ["Consultor ABAP"],
+    "Experiencia": ["5 años en proyectos de implementación", "mejora continua en módulos FI/CO/ABAP", "Roll out en empresas importantes en módulos New GL, AP, AR, TR, AA, EC-CS, CO y de Impuestos, retenciones, detracciones, reporte e interfaces"],
+    "Habilidades": []
+  },
+  "oferta_38": {
+    "requisitos_del_puesto_de_trabajo": {
+      "formacion": ["ingeniero", "arquitecto", "economista", "similar"],
+      "experiencia": ["actualización de temario"],
+      "habilidades": ["búsqueda de información en internet", "citación de fuentes"]
+    }
+  },
+  "oferta_39": {
+    "requisitos_del_puesto_de_trabajo": ["Profesional Universitario o Estudios Técnicos Completos de las carreras de Administración, Ingeniería Industrial, Economista o afines", "Haber trabajado en call center", "Tener experiencia en ventas corporativas", "Experiencia en ventas de campo", "Experiencia en ventas de seguros y/o productos intangibles", "Tener experiencia en empresas de telecomunicaciones", "Contar con cartera de clientes"]
+  },
+  "oferta_40": {
+    "requisitos_del_puesto_de_trabajo": ["programación"]
+  },
+  "oferta_41": {
+    "formacion_academica": ["Economista", "Ingeniero Civil", "Administración", "Finanzas"],
+    "especializacion": ["Finanzas", "Áreas afines"],
+    "experiencia_total": ["10 años"],
+    "experiencia_especifica": ["6 años"],
+    "area_experiencia_especifica": ["Estructuracion financiera", "Proyectos de transito", "Transporte", "Infraestructura", "Tecnología"]
+  },
+  "oferta_42": {
+    "habilidades": ["planificación estratégica", "formulación de proyectos de inversión", "proyectos sociales", "elaboración de informes de gestión", "sistemas de indicadores de gestión y desempeño", "docencia (profesor)", "asesoramiento de tesis de grado en economía"],
+    "experiencia": ["economista"]
+  },
+  "oferta_43": {
+    "requisitos_del_puesto_de_trabajo": ["ingeniero desarrollador de plataformas", "experiencia en plataformas de información gráfica y de datos en línea", "comercialización de plataformas"]
+  },
+  "oferta_44": {
+    "requisitos_del_puesto_de_trabajo": ["tarjeta de presentación que demuestre lo que es un economista financiero líder único en su campo"]
+  },
+  "oferta_45": {
+    "requisitos_del_puesto_de_trabajo": ["conocimientos en fiscalidad", "postgrado en fiscalidad", "experiencia previa (opcional)"]
+  },
+  "oferta_46": {
+    "experiencia_periodistica": ["imprensa", "digital", "TV", "radio"],
+    "especializacion": ["tecnologia", "emprendimiento", "negocios", "estilo de vida"],
+    "medios_preferidos": ["El Universal", "Reforma", "El Economista", "Excélsior", "Entrepreneur", "Forbes", "Televisa", "CIO LATAM", "El Financiero", "Publimetro", "MÁSPORMÁS", "Reporte Índigo", "Código Espagueti", "UNOCERO", "EXA radio ONCE", "tv Revista Empresario", "Alto Nivel", "Ventura Guanajuato Digital BackCulture", "Meca2.0", "Tres en social", "Geek"],
+    "nivel_medio": ["Tier 1"],
+    "base_datos_contactos": ["200-250+"]
+  },
+  "oferta_47": {},
+  "oferta_48": {},
+  "oferta_49": {
+    "requisitos_del_puesto_de_trabajo": {
+      "tipo_contrato": ["autónomo"],
+      "tarea": ["entrada de gastos en Excel"],
+      "experiencia_contabilidad": ["no necesaria"],
+      "perfil": ["completo", "capaz de optimizar procesos"],
+      "tiempo_dedicacion": ["2-3 horas al mes"],
+      "periodicidad": ["antes del día 14 de cada mes"],
+      "localizacion": ["Barcelona capital", "presencial"]
+    }
+  },
+  "oferta_50": {
+    "requisitos_del_puesto_de_trabajo": ["estudio de mercado", "plan de trabajo", "plan financiero", "formato digital", "formato pdf"]
+  },
+  "oferta_51": {
+    "pais": ["España", "México", "Argentina"],
+    "experiencia": ["redacción de artículos económicos"],
+    "habilidades": ["normas APA", "ensayos", "mapas conceptuales"],
+    "formacion": ["economista"],
+    "recursos": ["libros", "bibliografía"]
+  },
+  "oferta_52": {
+    "requisitos_del_puesto_de_trabajo": {
+      "habilidades_tecnicas": ["algebra lineal", "investigación de operaciones"],
+      "formacion_academica": ["economista", "ingeniero industrial", "ingeniero civil", "matemático"],
+      "experiencia": [],
+      "otros": []
+    }
+  },
+  "oferta_53": {
+    "requisitos_del_puesto_de_trabajo": ["Estar en posesión de una cámara de fotos", "Conocimiento de Internet a nivel usuario"],
+    "se_valorara": ["Tener un ordenador portátil con conexión USB", "Internet para rellenar los datos"]
+  },
+  "oferta_54": {
+    "requisitos_del_puesto_de_trabajo": ["Trabajar en los alrededores de tu casa o hasta donde estés dispuesto a ir paseando", "Aprovechar una visita donde sea al ver algún cartel “se vende”", "Administrar toda la información cómodamente desde tu ... encontrar con facilidad la propiedad en venta", "Ser la imagen de la empresa"]
+  },
+  "oferta_55": {
+    "requisitos_del_puesto_de_trabajo": ["programa similar al usado en Moneyball (para beisból)", "adaptado para jugadores de fútbol"]
+  },
+  "oferta_56": {
+    "requisitos_del_puesto_de_trabajo": ["Diseño de emails HTML", "Diseño atractivo, moderno y llamativo", "Creación de contenido para email marketing"]
+  },
+  "oferta_57": {
+    "requisitos_del_puesto_de_trabajo": ["redator", "entenda sobre economia e finanças", "textos descontraídos", "leves", "irônicos", "bem inteligentes", "insights interessantes sobre o cotidiano", "relacionando com temas econômicos/financeiros"]
+  },
+  "oferta_58": {
+    "requisitos_del_puesto_de_trabajo": ["Redacción de investigación", "Asistente de Docencia en Investigación Académica", "curso universitario", "Economista", "experiencia en revisión de trabajos de investigación universitaria", "monografías estudiantiles", "tesis de pregrado"]
+  },
+  "oferta_59": {
+    "requisitos_del_puesto_de_trabajo": ["vídeo de 2-4min estilo draw my life", "sobre la vida de un Economista", "locução", "trilha"]
+  },
+  "oferta_60": {
+    "requisitos_del_puesto_de_trabajo": ["análise crítica do plano de negócios", "marketing de conteúdo"]
+  },
+  "oferta_61": {},
+  "oferta_62": {
+    "plataforma": ["iPhone", "iPad"],
+    "experiencia_diseno": ["Si"],
+    "nivel_senioridad": ["Senior"],
+    "años_experiencia": [6],
+    "sector": ["mobile"],
+    "colaboradores": ["amigo economista", "emprendedor"],
+    "tipo_puesto": ["co-founder"],
+    "tecnologias": ["iOS"]
+  },
+  "oferta_63": {
+    "requisitos_del_puesto_de_trabajo": ["economista", "contador", "experiencia", "residencia en Vila Velha o Vitória (ES)"]
+  },
+  "oferta_64": {
+    "requisitos_del_puesto_de_trabajo": ["Jornalismo econômico", "Investimentos", "Economista", "Portfólio com textos escritos", "Bom conhecimento em inglês"]
+  },
+  "oferta_65": {
+    "requisitos_del_puesto_de_trabajo": {
+      "experiencia": ["Jornalismo", "Economía", "Análisis de mercados financieros e inversiones internacionales"],
+      "habilidades": ["Redacción de artículos", "Investigación", "Análisis", "Inglés fluido"],
+      "otros": ["Disponibilidad para escribir artículos semanales o mensuales", "Capacidad para escribir al menos 500 palabras en un artículo semanal y 1000 en uno mensual"],
+      "idiomas": ["Inglés (fluido)"]
+    }
+  },
+  "oferta_66": {
+    "Habilidades_Software": ["Excel (avanzado)"],
+    "Formación_Academica": ["Economista"],
+    "Habilidades_Blandas": ["Analítico"]
+  },
+  "oferta_67": {
+    "tipo_contrato": ["freelancer"],
+    "dedicacion": ["parcial", "6 meses"],
+    "experiencia": ["Plano Diretor de Desenvolvimento Turístico", "Plano Diretor Municipal", "Plano de Desenvolvimento Econômico", "Plano de Desenvolvimento Estratégico", "Planejamento Estratégico de Políticas Públicas"],
+    "horario": ["meio período", "1 vez por semana"],
+    "pago": ["diária"]
+  },
+  "oferta_68": {
+    "experiencia": ["11 anos"],
+    "sector": ["Financeiro"],
+    "areas": ["Gestão", "Finanças"],
+    "metodologias": ["MEG", "Engenharia Financeira"],
+    "principios": ["Mugo"],
+    "tipo_trabajo": ["consultora"]
+  },
+  "oferta_69": {},
+  "oferta_70": {
+    "requisitos_del_puesto_de_trabajo": ["Formação em administração", "Formação em economia"]
+  },
+  "oferta_71": {
+    "Formación Académica": ["Ingeniería", "Administración", "Economía", "Postgrado", "MBA"],
+    "Experiencia": ["Alta dirección", "Empresas de distribución", "Empresas de retail", "15 años"],
+    "Habilidades": ["Liderazgo estratégico", "Gestión de equipos", "Alta capacidad analítica", "Resolución de problemas", "Gestión de múltiples áreas", "Comunicación", "Negociación", "Orientación a resultados", "Visión a largo plazo", "Capacidad de decisión", "Comunicación y persuasión", "Desarrollo de negocio", "Gestión de equipos", "Liderazgo", "Negociación", "Orientación al logro", "Planificación estratégica", "Resolución de conflictos", "Análisis financiero"],
+    "Conocimientos": ["Herramientas tecnológicas de gestión empresarial (ERP, CRM)", "Mercado venezolano", "Industria automotriz", "Distribución"],
+    "Otros": ["Disponibilidad para viajar", "Edad: A partir de 35 años"]
+  },
+  "oferta_72": {
+    "requisitos": {
+      "educacion": ["Licenciado en Administración", "Licenciado en Economía", "Carrera a fin"],
+      "experiencia": ["mayor a 5 años en cargos similares"],
+      "edad": ["30 a 45 años"],
+      "conocimientos_software": ["Profit Plus", "Microsoft Excel", "Microsoft Office", "software administrativo"],
+      "conocimientos_tematicos": ["materia tributaria", "administración de personal", "leyes tributarias", "leyes comerciales", "leyes laborales", "leyes aduanales", "ley de Costos y Precios Justos", "Contribuyentes Especiales", "procesos y negociaciones bancarias", "procesos de auditoria", "administración de logística operacional", "tesorería", "compras", "inventarios", "planificación estratégica", "indicadores de gestión", "gestión por procesos", "Análisis financiero"],
+      "habilidades": ["Aceptación de errores y fracasos", "Adaptación al cambio", "Capacidad de decisión", "Orientación al logro"]
+    }
+  },
+  "oferta_73": {
+    "Educacion": ["Universidad"],
+    "Experiencia": ["3 años"],
+    "Edad": ["28-50"],
+    "Conocimiento": ["Normas contables nacionales e internacionales"],
+    "Habilidades": ["Calculo de indices de inflación", "Ajustes contables por inflación", "Conciliación de registros contables", "Análisis de estados financieros", "Preparación de informes", "Auditoría interna/externa"]
+  },
+  "oferta_74": {
+    "educacion": ["Educación Técnico/Profesional", "Administración", "Informática", "Ventas", "Economía"],
+    "experiencia": ["2 años en gestiones de cobranzas y atención al cliente"],
+    "habilidades": ["persuadir", "cerrar negociaciones", "comunicación", "relaciones públicas", "negociación", "trato con clientes", "orientación a resultados", "análisis", "solución de problemas", "toma de decisiones", "organizado", "dinámico", "logro de objetivos", "iniciativa propia", "supervisión de procedimientos de cobro", "manejo de información confidencial", "trabajo en equipo", "trabajo bajo presión"],
+    "software": ["Sistema Galac Software", "Microsoft Excel", "Microsoft Word", "Microsoft Office"],
+    "idiomas": ["Español"],
+    "edad": ["25-40 años"],
+    "otros": ["Buena presencia", "Call Center"]
+  },
+  "oferta_75": {
+    "Educacion": ["Lic. Administración", "Economía", "carreras afines", "Universidad"],
+    "Genero": ["Masculino"],
+    "Idioma": ["Ingles", "intermedio/avanzado"],
+    "Experiencia": ["procesos administrativos y contables", "Manejo de agenda de reuniones", "levantamiento de minuta", "manejo de reservaciones hoteleras nacional e internacional", "Manejo de equipo y paquete office", "Dominio de sistemas administrativos"],
+    "Habilidades": ["Dominio de CHATGPT"],
+    "Disponibilidad": ["viajar a nivel nacional", "trabajar de manera presencial", "cumplir horario de oficina"],
+    "Otros": ["Contar con vehículo propio", "3 años de experiencia", "Edad: entre 25 y 35 años"]
+  },
+  "oferta_76": {
+    "requisitos_del_puesto_de_trabajo": ["Licenciado en Administración, Contaduría, Economía o Carrera Afín", "Experiencia en el área de Tesorería y Cuentas por Pagar (3 años en cargos similares)", "Amplio manejo de Programas Office", "Manejo de Sistema Profit"]
+  },
+  "oferta_77": {
+    "requisitos_del_puesto_de_trabajo": {
+      "educacion": ["T.S.U. o licenciado en Mercadeo, Contabilidad, Economía o carrera afín", "Educación Técnico/Profesional"],
+      "experiencia": ["Experiencia comprobable mínima de 2 años en cargos similares", "2 años de experiencia"],
+      "sexo": ["FEMENINO"],
+      "edad": ["30 a 45 años", "25 y 40 años"],
+      "disponibilidad": ["Disponibilidad inmediata"],
+      "ubicacion": ["CARACAS ZONAS CERCANAS AL CENTRO COMERCIAL EL LIDER"],
+      "conocimientos": ["Dirección de ventas", "Gestión de ventas", "Retail", "Gestión de inventarios", "Gestión de personal", "Administración", "Manejo de personal", "procesos de facturación"]
+    }
+  },
+  "oferta_78": {
+    "educacion": ["Licenciatura en Comercio Exterior", "Administración", "Economía", "carrera afín"],
+    "experiencia": ["Análisis de tráfico y aduana (3 años)", "Importación y nacionalización de alimentos"],
+    "habilidades_tecnologicas": ["Herramientas Office (Word, Excel, PowerPoint)", "Sistema Administrativo Profit Plus (módulo de compras, administración e inventario)"],
+    "habilidades_blandas": ["Capacidad para actuar rápidamente y tomar decisiones informadas", "Habilidad para gestionar múltiples tareas y prioridades de manera eficiente", "Destreza en la negociación y comunicación efectiva"],
+    "ubicacion": ["Turmero", "Maracay", "zonas cercanas"],
+    "otros": ["Edad: entre 30 y 50 años", "Disponibilidad de viajar: Si"]
+  },
+  "oferta_79": {
+    "requisitos": {
+      "educacion": ["Licenciatura en Finanzas, Contabilidad, Economía o afines (Maestría deseable)"],
+      "experiencia": ["Experiencia comprobada en puestos similares, gestionando finanzas de manera integral para empresas", "Amplia experiencia en trabajo remoto, preferiblemente con empresas en EE. UU.", "Experiencia sólida en diseño y gestión de planes de crédito y manejo de cuentas por cobrar", "5 años de experiencia"],
+      "habilidades_tecnicas": ["Conocimientos avanzados en normativas contables y fiscales internacionales, especialmente en EE. UU.", "Dominio de herramientas financieras y software ERP (ej.: SAP, QuickBooks)"],
+      "idiomas": ["Inglés fluido (escrito y hablado)"],
+      "competencias": ["Capacidad analítica y estratégica para tomar decisiones financieras críticas", "Habilidades de liderazgo para motivar y gestionar equipos", "Altos estándares de ética e integridad profesional", "Adaptabilidad al trabajo remoto y en entornos multiculturales"]
+    }
+  },
+  "oferta_80": {
+    "requisitos_del_puesto_de_trabajo": {
+      "formacion": ["Contaduría Pública", "Administración", "Economía"],
+      "experiencia": ["análisis de créditos", "evaluación cuantitativa y cualitativa de datos e indicadores financieros", "manejo de financiamientos: tablas de amortización, intereses, mora, indicadores de gestión", "análisis de estados financieros"],
+      "ubicacion": ["Barquisimeto", "Cabudare"],
+      "experiencia_minima_anios": [3],
+      "edad_minima": [25],
+      "edad_maxima": [35]
+    }
+  },
+  "oferta_81": {
+    "Formación": ["Finanzas", "Economía", "Carreras afines"],
+    "Experiencia": ["Gestión de información financiera empresarial", "Análisis de datos financieros", "Elaboración de presupuestos", "Evaluación de inversiones", "Examinar estados financieros", "Preparación de informes financieros", "Asesoramiento en materia de planificación financiera"],
+    "Habilidades": ["Conocimientos contable y financiero", "Excel avanzado", "Indicadores de gestión", "Liderazgo de equipo", "Orientación a resultados", "Adaptación al cambio", "Resolución de conflictos", "Microsoft Office"],
+    "Valores": ["Integridad", "Responsabilidad", "Vocación de Servicio", "Perseverancia", "Adaptabilidad"],
+    "Educación_Minima": ["Universidad"],
+    "Años_Experiencia": [5],
+    "Rango_Edad": ["30-50"]
+  },
+  "oferta_82": {
+    "requisitos_del_puesto_de_trabajo": {
+      "formacion": ["T.S.U. o licenciado en Contabilidad, Economía o carrera afín"],
+      "experiencia": ["Experiencia comprobable mínima de 2 años en cargos similares"],
+      "sexo": ["Indistinto"],
+      "edad": ["entre 23 y 37 años"],
+      "disponibilidad": ["Disponibilidad inmediata"]
+    }
+  },
+  "oferta_83": {
+    "requisitos_del_puesto_de_trabajo": {
+      "competencias": ["orientación al servicio", "proactividad", "excelente dicción", "modulación", "presencia"],
+      "habilidades_informaticas": ["Excel", "Word", "PowerPoint"],
+      "disponibilidad": ["inmediata"],
+      "residencia": ["Caracas"],
+      "nivel_educativo": ["Bachiller", "Estudiante universitario", "TSU"],
+      "carreras": ["Contabilidad", "Administración", "Economía"],
+      "edad": ["20-35 años"],
+      "idiomas": ["Español"]
+    }
+  },
+  "oferta_84": {
+    "experiencia_previa": ["posiciones similares en sector de distribución o logística"],
+    "conocimientos_tecnologicos": ["sistemas de gestión de inventarios", "herramientas tecnológicas relacionadas", "Manejo de Sistemas profit"],
+    "habilidades": ["trabajo eficiente", "comunicación (verbal y escrita)", "orientación al cliente", "relaciones efectivas con proveedores y transportistas", "organización", "planificación", "atención al detalle", "Gestión del Tiempo"],
+    "educacion_minima": ["Universidad"],
+    "anos_experiencia": [5],
+    "licencias_conducir": ["automoviles / carros"]
+  },
+  "oferta_85": {
+    "edad": {
+      "min": [30],
+      "max": [50]
+    },
+    "educacion": ["Universidad"],
+    "experiencia": ["3 años"],
+    "carreras": ["Administración de empresas", "Contaduría", "Economía", "carreras afines"],
+    "area": ["gerencial"],
+    "licencias": ["automoviles", "carros"]
+  },
+  "oferta_86": {
+    "edad": {
+      "min": [30],
+      "max": [50]
+    },
+    "educacion": ["Universidad"],
+    "experiencia": ["4 años"],
+    "carreras": ["Administración de empresas", "Contaduría", "Economía", "carreras afines"],
+    "area": ["gerencial"],
+    "tiempo_experiencia_area": ["3 años"],
+    "conocimientos": ["Liderazgo", "Mercadeo", "Logística"],
+    "licencias": ["automoviles", "carros"]
+  },
+  "oferta_87": {
+    "experiencia_contable": ["Manejo de contribuyentes ordinarios y especiales", "Declaraciones en Seniat", "Declaraciones en Alcaldía", "Procesos de fiscalización"],
+    "formacion_academica": ["Contaduría", "Administración", "Economía", "afines"],
+    "herramientas_informaticas": ["Google Workspace (drive, sheet, docs)"],
+    "habilidades_blandas": ["Responsable", "Organizada", "Trabajo bajo presión"],
+    "modalidad_trabajo": ["Presencial"],
+    "ubicacion": ["Chacao, Caracas"],
+    "horario": ["Lunes a viernes, 8:00am a 5:00pm"],
+    "anos_experiencia": [2],
+    "edad": ["20-35"]
+  },
+  "oferta_88": {
+    "requisitos": {
+      "experiencia": [
+        {
+          "tipo": "trade marketing",
+          "años": 3
+        },
+        {
+          "tipo": "atención supermercados"
+        },
+        {
+          "tipo": "general",
+          "años": 2
+        }
+      ],
+      "formacion": ["marketing", "administración de empresas", "economía", "marketing o gestión de ventas", "Educación Técnico/Profesional", "Universidad"],
+      "habilidades": ["iniciativa", "autonomía", "visión estratégica", "capacidad analítica", "creatividad", "trabajo en equipo", "conocimiento redes sociales", "marketing y comunicación", "MS Office Professional (avanzado)", "habilidad comunicativa", "flexibilidad", "adaptación"],
+      "otros": ["residenciado en Barquisimeto", "vehículo propio (indispensable)", "edad: 25-40 años", "edad: 25-35 años", "licencia de conducir", "disponibilidad para viajar"]
+    }
+  },
+  "oferta_89": {
+    "requisitos_del_puesto_de_trabajo": {
+      "Salud": ["Buen estado de salud física y mental (presentar certificado médico)"],
+      "Disponibilidad": ["Disponibilidad inmediata", "Disponibilidad de viajar: Si", "Disponibilidad de cambio de residencia: Si"],
+      "Documentacion": ["Pasaporte con vigencia de 2 años mínimo", "No tener antecedentes penales (presentar certificación de antecedentes penales)"],
+      "Edad": ["Edad comprendida entre 18 y 50 años de edad", "Edad: entre 18 y 50 años"],
+      "Experiencia": ["Sin experiencia laboral"],
+      "Formacion": ["Educación mínima: Bachillerato / Educación Media"],
+      "Idiomas": ["Español"],
+      "Competencias": ["Buena forma física", "Habilidad en los trabajos manuales", "Seguir instrucciones", "Alta capacidad de concentración", "Capacidad de trabajar en equipo, bajo presión y manejo de comunicación eficaz"]
+    }
+  },
+  "oferta_90": {
+    "Salud": ["Buen estado de salud física y mental (presentar certificado médico)"],
+    "Disponibilidad": ["Disponibilidad inmediata", "Disponibilidad de viajar: Si", "Disponibilidad de cambio de residencia: Si"],
+    "Documentacion": ["Pasaporte con vigencia de 2 años mínimo", "No tener antecedentes penales (presentar certificación de antecedentes penales)", "Experiencia laboral comprobable mínima de 1 año", "Certificación del oficio (presentar: títulos, certificados, cursos)"],
+    "Edad": ["Edad comprendida entre 18 y 50 años de edad", "Edad: entre 18 y 50 años"],
+    "Pruebas": ["Se realizará una prueba práctica y de clasificación en Rusia"],
+    "Forma_fisica": ["Buena forma física"],
+    "Habilidades": ["Habilidad en los trabajos manuales", "Ser minucioso y con capacidad para seguir instrucciones muy técnicas y precisas", "Alta capacidad de concentración", "Capacidad para leer e interpretar dibujos, bocetos y planos, comprender símbolos, códigos y especificaciones técnicas", "Habilidades en el uso de equipos y medidas de seguridad"],
+    "Trabajo_en_equipo": ["Capacidad de trabajar en equipo, bajo presión y manejo de comunicación eficaz"],
+    "Educacion": ["Educación mínima: Educación Técnico/Profesional"],
+    "Experiencia": ["1 año de experiencia"],
+    "Idiomas": ["Español"]
+  },
+  "oferta_91": {
+    "Salud": ["Buen estado de salud física y mental"],
+    "Disponibilidad": ["Disponibilidad inmediata"],
+    "Documentacion": ["Pasaporte con vigencia de 2 años mínimo", "Certificación de antecedentes penales", "Certificación del oficio", "Experiencia laboral comprobable mínima de 1 año"],
+    "Edad": ["Edad comprendida entre 18 y 50 años de edad"],
+    "Experiencia": ["Experiencia laboral comprobable mínima de 1 año"],
+    "Formacion": ["Certificación del oficio"],
+    "CompetenciasFisicas": ["Buena forma física", "Fuerza en las manos y capacidad para levantar pesos de considerable tamaño", "Capacidad para trabajar en espacios reducidos", "Buena coordinación psicomotriz (ojo-mano)"],
+    "CompetenciasSensoriales": ["Poseer muy buena vista y oído"],
+    "CompetenciasManuales": ["Habilidad en los trabajos manuales", "Ser minucioso y con capacidad para seguir instrucciones muy técnicas y precisas", "Alta capacidad de concentración"],
+    "CompetenciasTecnicas": ["Capacidad para leer e interpretar dibujos, bocetos y planos, comprender símbolos, códigos de soldadura y especificaciones técnicas", "Habilidades en el uso de equipos y medidas de seguridad"],
+    "CompetenciasSociales": ["Capacidad de trabajar en equipo", "Manejo de comunicación eficaz"],
+    "Otros": ["Se realizará una prueba práctica y de clasificación en Rusia"]
+  },
+  "oferta_92": {
+    "requisitos_del_puesto_de_trabajo": {
+      "educacion": ["Bachillerato / Educación Media"],
+      "experiencia": ["1 año"],
+      "edad": ["30-50 años"],
+      "tareas": ["orden y limpieza de las áreas", "aseo en neveras y cavas", "limpieza de vidrieras", "limpieza de áreas de caja"]
+    }
+  },
+  "oferta_93": {
+    "requisitos_del_puesto_de_trabajo": {
+      "tareas": ["Reposición del producto respetando estándares de calidad", "Montaje de vitrina según criterios comerciales", "Corte de productos del mostrador", "Manipulación del producto respetando estándares de calidad", "Venta del producto", "Asesoramiento al cliente", "Uso de útiles de trabajo (carros, ruedas, cuchillos, cortadora, envasadora de vacío) y protecciones (colectivas e individuales)"],
+      "educacion": ["Bachillerato / Educación Media"],
+      "experiencia": ["1 año"],
+      "edad": ["20-50 años"]
+    }
+  },
+  "oferta_94": {
+    "requisitos_del_puesto_de_trabajo": {
+      "Salud": ["Buen estado de salud física y mental (presentar certificado médico)"],
+      "Disponibilidad": ["Disponibilidad inmediata", "Disponibilidad de viajar: Si", "Disponibilidad de cambio de residencia: Si"],
+      "Documentación": ["Pasaporte con vigencia de 2 años mínimo", "No tener antecedentes penales (presentar certificación de antecedentes penales)", "Certificación del oficio (presentar: títulos, certificados)"],
+      "Edad": ["Edad comprendida entre 18 y 50 años de edad", "Edad: entre 18 y 50 años"],
+      "Experiencia": ["Experiencia laboral comprobable mínima de 3 años", "3 años de experiencia"],
+      "Pruebas": ["Se realizará una prueba práctica y de clasificación en Rusia"],
+      "Forma física": ["Buena forma física", "Fuerza en las manos y capacidad para levantar pesos de considerable tamaño"],
+      "Condiciones físicas": ["Capacidad para trabajar en espacios reducidos", "Poseer muy buena vista y oído"],
+      "Habilidades": ["Buena coordinación psicomotriz (ojo-mano)", "Habilidad en los trabajos manuales", "Ser minucioso y con capacidad para seguir instrucciones muy técnicas y precisas", "Alta capacidad de concentración", "Capacidad para leer e interpretar dibujos, bocetos y planos, comprender símbolos, códigos de soldadura y especificaciones técnicas", "Habilidades en el uso de equipos y medidas de seguridad"],
+      "Trabajo en equipo": ["Capacidad de trabajar en equipo, bajo presión y manejo de comunicación eficaz"],
+      "Educacion": ["Educación mínima: Bachillerato / Educación Media"],
+      "Idiomas": ["Idiomas: Español"]
+    }
+  },
+  "oferta_95": {
+    "experiencia": {
+      "años": [2],
+      "tipo": ["similar"]
+    },
+    "educacion": ["Psicólogo", "Relacionista Industrial"],
+    "ubicacion": ["Maracaibo", "zona norte", "zona este", "zona oeste"],
+    "conocimientos_tecnicos": ["Manejo de pruebas psicotécnicas", "Redacción de informes psicológicos"],
+    "edad_minima": [25],
+    "edad_maxima": [45]
+  },
+  "oferta_96": {
+    "educacion_minima": ["Bachillerato / Educación Media"],
+    "experiencia_anios": [5],
+    "edad_minima": [25],
+    "edad_maxima": [35]
+  },
+  "oferta_97": {
+    "requisitos_del_puesto_de_trabajo": ["Esforzarse por aprender los procesos operativos", "Interesarse en el conocimiento de otros procesos", "Interesarse en apoyar en diversos procesos", "Buscar activamente su integración con el equipo y diversas áreas", "Atender las solicitudes de clientes y posteriormente notificar la realización de la misma ofreciendo un servicio eficiente cumpliendo con los estándares de la empresa", "Atender de forma oportuna los reclamos de clientes, canalizarlos al área de operaciones para que sean resueltos y realizar el seguimiento del mismo", "Verificar en los bancos y plataformas correspondientes todo tipo de depósitos recibidos y pagos realizados a los clientes llevando los registros de manera oportuna", "Ejecutar las transferencias en las plataformas bancarias según los estándares definidos por la empresa", "Educación mínima: Bachillerato / Educación Media", "Edad: entre 18 y 30 años"]
+  },
+  "oferta_98": {
+    "educacion_minima": ["Universidad"],
+    "experiencia_anios": [5],
+    "idiomas": ["Inglés"],
+    "edad_rango": ["30-55"],
+    "conocimientos_informatica": ["Microsoft Excel", "Microsoft Outlook", "Microsoft Word", "CSS", "AutoCAD", "Digitalización de documentos"],
+    "conocimientos_habilidades": ["Adaptación al cambio", "Análisis", "Análisis de costes", "Atención al cliente", "Autoconfianza", "Capacidad de decisión", "Comunicación y persuasión", "Creatividad", "Diseño", "Gestión", "Gestión de equipos", "Gestión de las emociones", "Gestión de proyectos", "Gestión del cambio", "Gestión del Tiempo", "Ingeniería", "Liderazgo", "Mejora del rendimiento", "Negociación", "Organización", "Orientación al logro", "Planificación", "Proceso de mejora", "Resolución de conflictos", "Resolución de problemas", "Superación", "Trabajo en equipo", "Lean Manufacturing", "Mantenimiento", "Calidad", "Gestión de inventarios", "Gestión de personal", "Administración", "Microsoft Office"],
+    "licencias_conducir": ["automóviles / carros"],
+    "discapacidad": ["Sí"]
+  },
+  "oferta_99": {
+    "requisitos_del_puesto_de_trabajo": {
+      "habilidades_software": ["Profit"],
+      "tareas": ["Supervisar actividades de caja chica", "Supervisar cuentas por cobrar y pagar", "Realizar transferencias bancarias", "Analizar arqueos de caja chica", "Supervisar y autorizar reposición de caja chica", "Velar por la actualización de asientos contables (caja y cuentas por cobrar)", "Supervisar actividades del analista de cuentas por pagar", "Presentar flujo de caja", "Revisar y aprobar cheques emitidos", "Velar por el cumplimiento del pago de impuestos, retenciones y patentes", "Velar por el cumplimiento del pago a proveedores", "Supervisar la actualización de registros contables de cuentas por pagar", "Efectuar asientos contables", "Preparar y contabilizar asientos contables de conciliaciones bancarias", "Revisar y analizar cuentas del balance", "Otras actividades inherentes al puesto"],
+      "educacion": ["Universidad"],
+      "experiencia": ["6 años"],
+      "edad": ["30-45 años"],
+      "conocimientos": ["Adaptación al cambio"]
+    }
+  },
+  "oferta_100": {
+    "normativa_legal": [true],
+    "seniat": [true],
+    "iva": [true],
+    "islr": [true],
+    "paquete_office": [true],
+    "excel_avanzado": [true],
+    "profit_administrativo": [true],
+    "analisis_contable": [true],
+    "declaracion_impuestos": [true],
+    "conciliaciones_bancarias": [true],
+    "registros_contables": [true],
+    "cierres_contables": [true],
+    "estados_financieros": [true],
+    "indicadores_gestion": [true],
+    "responsabilidad": [true],
+    "dinamismo": [true],
+    "proactividad": [true],
+    "cumplimiento_normas": [true],
+    "etica": [true],
+    "honestidad": [true],
+    "integridad": [true],
+    "trabajo_equipo": [true],
+    "orientacion_logro": [true],
+    "capacidad_planificacion": [true],
+    "discrecion": [true],
+    "educacion_minima_tecnico_profesional": [true],
+    "experiencia_5_anos": [true],
+    "edad_30_50": [true]
+  },
+  "oferta_101": {
+    "educacion": ["Universidad"],
+    "experiencia": ["10 años"],
+    "idiomas": ["Español"],
+    "edad": ["35-48"],
+    "conocimientos": ["Análisis de costes", "Estimación y análisis de costos", "Microsoft Office Suite", "Software de estimación de costos", "Lectura de planos arquitectónicos"],
+    "habilidades": ["Comunicación", "Negociación", "Trabajo bajo presión", "Organización", "Atención al detalle"],
+    "campo_de_estudio": ["Finanzas", "Contabilidad", "Economía", "Ingeniería", "Ciencias de la construcción"],
+    "licencias": ["automoviles / carros"]
+  },
+  "oferta_102": {
+    "requisitos_del_puesto_de_trabajo": {
+      "habilidades": ["preparación de productos cárnicos", "corte de productos cárnicos", "despiece de productos cárnicos", "manejo de productos cárnicos", "servicio al cliente", "cumplimiento de normativas sanitarias"],
+      "educacion": ["Bachillerato / Educación Media"],
+      "experiencia": ["1 año de experiencia"],
+      "edad": ["20-55 años"]
+    }
+  },
+  "oferta_103": {
+    "requisitos_del_puesto_de_trabajo": {
+      "educacion": ["Bachillerato / Educación Media"],
+      "experiencia": ["1 año"],
+      "edad": ["30-50 años"]
+    }
+  },
+  "oferta_104": {
+    "requisitos_del_puesto_de_trabajo": {
+      "educacion": ["Universidad"],
+      "experiencia": ["3 años de experiencia"],
+      "edad": ["A partir de 25 años"],
+      "habilidades": ["proactivo", "ventas", "comunicación", "negociación", "cierre de ventas", "atención al cliente", "organizado", "actitud positiva", "comunicación escrita y oral"],
+      "otros": ["formación universitaria en administración de empresas, economía o campo relacionado con el negocio", "experiencia previa en ventas o asesoramiento inmobiliario"]
+    }
+  },
+  "oferta_105": {
+    "educacion_minima": ["Bachillerato / Educación Media"],
+    "experiencia": ["5 años"],
+    "edad": ["25-40 años"]
+  },
+  "oferta_106": {
+    "requisitos_del_puesto_de_trabajo": {
+      "educacion": ["TSU", "Licenciatura en Contaduría Público", "Administración", "Economía", "carrera afín", "Educación Técnico/Profesional"],
+      "experiencia": ["Mínimo 3 años en cargos similares"],
+      "conocimientos": ["Microsoft Office", "Profit Plus", "Manejo de indicadores de gestión"],
+      "habilidades": ["Capacidad de toma de decisiones", "Habilidades de organización y gestión del tiempo"]
+    }
+  },
+  "oferta_107": {
+    "areas_de_ingenieria": ["química", "civil", "eléctrica", "industrial", "mecánica", "mineral", "petrolera", "electrónica", "mecatrónica", "sistemas", "telecomunicaciones", "ambiental", "agrónoma", "aeroespacial"],
+    "otras_areas": ["derecho", "psicología", "negocios", "contabilidad", "administración", "economía", "mercadeo", "odontología", "medicina", "matemáticas", "arquitectura", "física", "letras"],
+    "experiencia_anios": [20],
+    "edad_minima": [45],
+    "edad_maxima": [60],
+    "educacion_minima": ["Universidad"]
+  },
+  "oferta_108": {
+    "requisitos_del_puesto_de_trabajo": {
+      "area_experiencia": ["ingeniería química", "ingeniería civil", "ingeniería eléctrica", "ingeniería industrial", "ingeniería mecánica", "ingeniería de minas", "ingeniería petrolera", "ingeniería electrónica", "ingeniería mecatrónica", "ingeniería de sistemas", "ingeniería de telecomunicaciones", "ingeniería ambiental", "ingeniería agrónoma", "ingeniería aeroespacial", "derecho", "psicología", "negocios", "contabilidad", "administración", "economía", "mercadeo", "odontología", "medicina", "matemáticas", "arquitectura", "física", "letras"],
+      "educacion_minima": ["Postgrado"],
+      "experiencia": ["20 años"],
+      "edad": ["45-60 años"]
+    }
+  },
+  "oferta_109": {
+    "requisitos_del_puesto_de_trabajo": ["Elaboración de Nóminas", "Pasivos Laborales", "Entes Gubernamentales", "Atención a los trabajadores", "Asistencia a la Gerencia", "Contacto con proveedores, compras", "Gestión administrativa", "Educación mínima: Educación Técnico/Profesional", "1 año de experiencia"]
+  },
+  "oferta_110": {
+    "requisitos_del_puesto_de_trabajo": {
+      "habilidades": ["Elaboración de nóminas", "cesta ticket", "Cálculo de utilidades", "vacaciones", "prestaciones sociales", "Gestión de entes gubernamentales", "Funciones administrativas"],
+      "educacion": ["Educación Técnico/Profesional"],
+      "experiencia": ["2 años"],
+      "edad": ["23-50"]
+    }
+  },
+  "oferta_111": {
+    "FormacionAcademica": ["Administración de Empresas", "Mercadeo", "Economía", "carrera afín"],
+    "Experiencia": ["2 años en área comercial farmacéutica"],
+    "Habilidades": ["negociación", "comunicación efectiva", "orientación a resultados", "trabajo independiente", "trabajo en equipo"],
+    "Herramientas": ["Word", "Excel", "PowerPoint"],
+    "Otros": ["Ventas", "Disponibilidad para viajar"]
+  },
+  "oferta_112": {
+    "Requisitos": {
+      "Formación Académica": ["Licencia en Administración de Empresa", "Contaduría", "Economía", "Educación Técnico/Profesional"],
+      "Experiencia": ["Experiencia mínima de 3 años en gestión de crédito y cobranzas con cargos similares"],
+      "Conocimientos": ["normativas legales y financieras", "Microsoft Excel (avanzado)", "software administrativo Profit Plus 2k8"],
+      "Capacitaciones": ["Certificados de capacitaciones recibidas en materia de crédito y cobranzas, finanzas"],
+      "Habilidades": ["Liderazgo", "Comunicación efectiva", "Negociación", "Resolución de conflictos", "Pensamiento analítico"],
+      "Edad": ["entre 35 y 45 años"]
+    }
+  },
+  "oferta_113": {
+    "requisitos_del_puesto_de_trabajo": {
+      "Formación Académica": ["Graduada en economía, administración", "Universidad"],
+      "Experiencia": ["Experiencia el área de Recursos Humanos", "Manejo de Nomina", "1 año de experiencia"],
+      "Habilidades": ["Seguimiento y control pagos a proveedores/ compras de materiales y suministros", "Conocimiento básico en IVA", "Destreza en conciliaciones Bancarias", "Manejo de Microsoft Teams", "Sólidos conocimientos de Office (Word, Excel y PowerPoint)", "Adaptación al cambio"],
+      "Disponibilidad": ["Disponibilidad inmediata para trabajar a tiempo completo", "Trabajo de forma presencial"],
+      "Edad": ["entre 23 y 30 años"]
+    }
+  },
+  "oferta_114": {
+    "requisitos_del_puesto_de_trabajo": {
+      "educacion": ["Universidad"],
+      "experiencia": ["5 años"],
+      "habilidades": ["gestión de cobranzas", "gestión fiscal", "manejo de personal", "conocimiento en tributos", "planificación operativa", "supervisión", "atención al cliente"],
+      "carrera": ["Administración", "Contaduría", "Economía", "carreras afines"]
+    }
+  },
+  "oferta_115": {
+    "requisitos_del_puesto_de_trabajo": {
+      "formacion_academica": ["Administración", "Contaduría", "Economía"],
+      "experiencia": ["Evaluación de cartera de crédito", "Seguimiento de cartera de crédito", "Análisis de riesgo crediticio", "Elaboración de informes", "Identificación de incumplimientos de pago", "Análisis de mora", "Análisis de rendimiento de tasas", "Evaluación de probabilidades de incumplimiento (PQ)", "Evaluación de pérdidas esperadas", "Consolidación de garantías"],
+      "habilidades": ["Análisis de datos", "Manejo de información financiera", "Elaboración de informes", "Seguimiento", "Control de riesgos"]
+    }
+  },
+  "oferta_116": {
+    "requisitos_del_puesto_de_trabajo": ["Aplicar, manejar e interpretar la contabilidad", "Producir informes para la gerencia y para terceros", "Llevar la contabilidad de una empresa", "Preparar estados financieros y reportes contables", "Realizar auditorías internas y externas", "Asesorar en materia de impuestos y finanzas", "Evaluar la situación financiera de una empresa", "Elaborar presupuestos y planes financieros", "Gestionar el pago de salarios, seguridad social y demás beneficios de los empleados", "Asegurar el cumplimiento de las obligaciones fiscales y tributarias", "Estar al día con las normativas vigentes", "Proponer acciones para promover el crecimiento económico"]
+  },
+  "oferta_117": {
+    "requisitos_del_puesto_de_trabajo": ["Experiencia en planificación de estrategias", "Toma de decisiones", "Contacto con clientes", "Haber manejando personal a cargo"]
+  },
+  "oferta_118": {
+    "requisitos_del_puesto_de_trabajo": {
+      "Formación Académica": ["TSU o Lic. en Contabilidad o Ciencias Fiscales"],
+      "Ubicación": ["Residencia en Caracas"],
+      "Habilidades Blandas": ["Buena capacidad de respuesta", "organizado(a)", "flexible", "proactivo(a)", "comunicativo(a)", "Trabajo en equipo"],
+      "Experiencia": ["Experiencia en multi empresas y manejo de tiendas"],
+      "Conocimientos Técnicos": ["Conocimientos tributarios", "planificación, revisión, declaración y pagos de impuestos nacionales (SENIAT, FONACIT, FONDEPORTE, FONA) y municipales (alcaldía de Chacao)", "Manejo de comprobantes de retención de IVA sobre ventas", "Seguimiento de comprobantes de retención de compras", "Conocimiento libro de compras y de ventas", "Manejo de contribuyentes especiales"]
+    }
+  },
+  "oferta_119": {
+    "requisitos_del_puesto_de_trabajo": {
+      "formacion": ["Graduado en Ingeniería Mecánica o Civil"],
+      "conocimientos": ["Leyes y reglamentos de licitación", "Ventas técnicas", "APU y cómputos métricos"],
+      "experiencia": ["Al menos tres años como Ingeniero de Licitaciones"],
+      "ubicacion": ["Vivir en Caracas"],
+      "otros": ["Saber manejar y tener documentación vigente"]
+    }
+  },
+  "oferta_120": {
+    "requisitos_del_puesto_de_trabajo": ["Conciliación diaria de saldos bancarios", "Registro de movimientos bancarios en sistema contable", "Monitoreo y análisis de liquidez", "Planificación y análisis de recursos financieros", "Programación y emisión de pagos", "Evaluación de riesgos financieros"]
+  },
+  "oferta_121": {
+    "requisitos_del_puesto_de_trabajo": ["Conocimientos generales en materia de la ley orgánica del trabajo (LOTTT)", "Ley general de bancos y otras instituciones financieras", "Conocimientos generales asociados con los procesos medulares del área de mercadeo y venta (comercialización) y atención al cliente", "Conocimiento sobre variables económicas (país o zona en la cual se encuentra su marco de acción) y su incidencia en el sector financiero", "Conocimiento sobre indicadores de gestión y variables de análisis utilizadas en el sector financiero", "Políticas gubernamentales que incidan sobre el sector financiero", "Proyecciones económicas a nivel país", "Conocimientos generales sobre liderazgo", "negociación", "Gestión de equipos de trabajo", "Comunicación asertiva", "Planificación estratégica", "Conocimientos de los productos financieros y tecnológicos del banco", "manejo y custodia sobre efectivo y papel valor", "Manejo de paquete Office", "Manejo del sistema contable del banco (ATPW)"]
+  },
+  "oferta_122": {
+    "Formación Académica": {
+      "Nivel": ["Licenciatura", "Postgrado"],
+      "Carreras": ["Administración", "Contaduría", "Economía", "Finanzas", "Administración de Empresas", "Administración Tributaria", "Desarrollo Organizacional"]
+    },
+    "Experiencia": {
+      "Años_Totales": [7],
+      "Areas": ["Finanzas", "Administración", "Desarrollo Organizacional"],
+      "Cargos_Similares": [3],
+      "Manejo_Personal": [true],
+      "Manejo_Presupuesto": [true]
+    },
+    "Habilidades": {
+      "Tecnicas": ["Manejo de Indicadores de gestión", "Microsoft Excel"],
+      "Blandas": ["Comunicación oral y escrita", "Presencia", "Vocabulario", "Dicción"]
+    },
+    "Otros": {
+      "Vehiculo_propio": [true],
+      "Licenciamiento_Profit_Plus": [true]
+    }
+  },
+  "oferta_123": {
+    "requisitos_del_puesto_de_trabajo": ["Licenciado(a) en Administración, Contaduría o Economía", "Manejo de herramientas Office", "sistemas administrativos", "sistemas tributarios", "Disposición para trabajar en equipo", "Buena comunicación", "liderazgo", "empatía", "manejo del tiempo", "Experiencia en control de cuentas por cobrar", "Habilidad en preparaciones de informes y documentos", "Manejo de indicadores de gestión"]
+  },
+  "oferta_124": {
+    "requisitos_del_puesto_de_trabajo": ["TSU o Lic. en Administración, Finanzas, Economía o áreas relacionadas", "Experiencia mínima de 2 años en funciones y tareas del área de tesorería", "Experiencia realizando validaciones bancarias y conciliaciones en moneda nacional y extranjera", "Conocimiento avanzado en herramientas y sistemas Office, específicamente Excel", "Experiencia manejando el sistema Profit Plus", "Fuertes habilidades analíticas y capacidad para trabajar con grandes volúmenes de datos", "Excelentes habilidades de comunicación verbal y escrita", "Capacidad para trabajar en equipo y adaptarse a un entorno dinámico", "Alta competencia en la gestión de riesgos financieros y la solución de problemas"]
+  },
+  "oferta_125": {
+    "requisitos_del_puesto_de_trabajo": {
+      "formacion": ["TSU o estudiante de los últimos años de las carreras: Administración, Banca y Finanzas o Economía"],
+      "experiencia": ["Mínimo un año de experiencia en funciones de tesorería o similares"],
+      "conocimientos_productos": ["Conocimientos en productos de tesorería"],
+      "habilidades_software": ["Manejo de Paradise", "depósitos a plazo fijo", "cuentas vistas", "CRM (clientes, cuentas, reportes, estado de cuenta)", "Manejo intermedio de Excel", "Manejo de LA sistema, (Ultrasec, títulos de valores)", "Manejo paquetes Office"],
+      "habilidades_otras": ["Buena redacción y ortografía"]
+    }
+  },
+  "oferta_126": {
+    "requisitos_del_puesto_de_trabajo": {
+      "formacion": ["administrativo", "financiero", "ingeniero", "ciencias económicas"],
+      "experiencia": ["liderazgo de actividades de cadena de abastecimiento"],
+      "habilidades": ["manejo de relaciones interpersonales", "liderazgo de equipos", "entrega de bienes o servicios con altos criterios de calidad y nivel de servicio"]
+    }
+  },
+  "oferta_127": {
+    "requisitos_del_puesto_de_trabajo": ["Profesionales en Administración de empresas, Economía, Procesos, Estadística", "Amplia experiencia en Excel, manejo de programas en paquetes integrados (Office)", "Desarrollo, control y manejo de indicadores operativos y de gestión", "Desarrollo de proyectos", "Liderazgo", "Toma de decisiones", "Proactivos(as)", "Iniciativa", "Trabajo en equipo", "Trabajo bajo presión", "Adaptabilidad a cualquier entorno"]
+  },
+  "oferta_128": {
+    "requisitos_del_puesto_de_trabajo": {
+      "formacion": ["Licenciado(a) en Economía"],
+      "experiencia": ["Experiencia mínima de dos años en cargos similares", "Experiencia en el área de tesorería o bancaria (deseable)"],
+      "conocimientos": ["Cocimientos en productos e instrumentos financieros, leyes y disposiciones que regulan las operaciones bancarias", "Contabilidad", "flujo de caja", "matemática financiera", "Manejo de carteras de inversiones", "Conocimiento en overnight de activos y pasivos", "Compra y venta de títulos valores"]
+    }
+  },
+  "oferta_129": {
+    "requisitos_del_puesto_de_trabajo": ["Licenciado(a) en Administración", "Licenciado(a) en Contaduría", "Licenciado(a) en Informática", "Profesional en Ciencias Económicas y Sociales", "carrera afín"]
+  },
+  "oferta_130": {
+    "requisitos_del_puesto_de_trabajo": {
+      "formacion": ["Profesional universitario(a) en Economía"],
+      "experiencia": ["Al menos 2 años de experiencia profesional"],
+      "habilidades_tecnologicas": ["Manejo de Excel", "Power BI"],
+      "conocimientos_especificos": ["evaluación diagnóstica financiera", "finanzas estratégicas", "valoración de empresas", "KPI estratégicos"],
+      "habilidades_blandas": ["orientación a resultados", "proactividad", "organización", "comunicación", "herramientas de gestión", "criterio de toma de decisiones"],
+      "ubicacion": ["Residenciado(a) en Caracas"]
+    }
+  },
+  "oferta_131": {
+    "requisitos_del_puesto_de_trabajo": ["Estudiante universitario(a) o TSU en carreras Administrativas, Economía o afines", "Experiencia de 1 año en cargos de atención al cliente", "Capacidad analítica", "Habilidad numérica", "Orientado(a) al cliente"]
+  },
+  "oferta_132": {
+    "Formación Académica": ["Ingeniería Industrial", "Finanzas", "Administración", "Economía", "áreas relacionadas"],
+    "Formación Complementaria": ["cómputo y presupuesto"],
+    "Experiencia Laboral": ["un año", "costos y presupuestos"],
+    "Habilidades": ["análisis de costos", "elaboración de presupuestos", "control financiero", "trabajo en equipo", "habilidades analíticas", "proactividad"],
+    "Software": ["Profit Plus"]
+  },
+  "oferta_133": {
+    "requisitos_del_puesto_de_trabajo": [
+      {
+        "categoria": "Formación",
+        "valor": "Graduado(a) en Ingeniería, Administración, Economía, Comercio exterior, Finanzas o carreras relacionadas"
+      },
+      {
+        "categoria": "Formación",
+        "valor": "Cursos o diplomados en finanzas"
+      },
+      {
+        "categoria": "Experiencia",
+        "valor": "Experiencia en áreas de compras de materiales directos o materias primas al menos 3 años"
+      },
+      {
+        "categoria": "Conocimiento",
+        "valor": "Conocimiento en procesos de compras internacionales"
+      },
+      {
+        "categoria": "Experiencia",
+        "valor": "Experiencia en procesos de negociación"
+      },
+      {
+        "categoria": "Habilidades",
+        "valor": "Manejo de sistema ERP (JDE, preferiblemente)"
+      },
+      {
+        "categoria": "Habilidades",
+        "valor": "Habilidades de negociación"
+      },
+      {
+        "categoria": "Habilidades",
+        "valor": "Excelente comunicación verbal y escrita"
+      },
+      {
+        "categoria": "Idioma",
+        "valor": "Conocimientos básicos del idioma inglés"
+      },
+      {
+        "categoria": "Habilidades",
+        "valor": "Manejo de Windows Office"
+      },
+      {
+        "categoria": "Habilidades",
+        "valor": "Manejo de Excel: tablas dinámicas, reportes estadísticos"
+      },
+      {
+        "categoria": "Habilidades",
+        "valor": "Alto nivel de servicio al cliente y relacionamiento"
+      },
+      {
+        "categoria": "Habilidades",
+        "valor": "Buena organización"
+      },
+      {
+        "categoria": "Habilidades",
+        "valor": "Capacidad de influencia y liderazgo"
+      }
+    ]
+  },
+  "oferta_134": {
+    "requisitos_del_puesto_de_trabajo": {
+      "formacion_academica": ["Administración", "Mercadeo", "Economía", "carrera afín"],
+      "experiencia": ["Cinco años de experiencia en el cargo en el sector retail"],
+      "habilidades_tecnologicas": ["Excel intermedio o avanzado"],
+      "habilidades_blandas": ["Trabajo en equipo", "Excelente relaciones interpersonales", "Habilidades supervisoras"],
+      "ubicacion": ["Residenciado(a) en Caracas"],
+      "disponibilidad": ["Disponibilidad inmediata"]
+    }
+  },
+  "oferta_135": {
+    "requisitos_del_puesto_de_trabajo": {
+      "Formación Académica": ["Administración", "Mercadeo", "Economía", "Carrera afín"],
+      "Experiencia": ["Dos años de experiencia en el cargo en el sector retail"],
+      "Habilidades Técnicas": ["Dominio del Excel intermedio o avanzado"],
+      "Habilidades Blandas": ["Trabajo en equipo", "Excelente relaciones interpersonales", "Habilidades supervisoras"],
+      "Ubicación": ["Residenciado(a) en Caracas"],
+      "Disponibilidad": ["Disponibilidad inmediata"]
+    }
+  },
+  "oferta_136": {
+    "requisitos_del_puesto_de_trabajo": {
+      "formacion": ["Estadística", "Matemática", "Ing. Industrial", "Producción", "Ing. en Informática", "Computación", "Sistemas", "Economista", "Lic. en Administración especialidad Estadística", "Ciencias Actuariales"],
+      "habilidades": ["Manejo de planificación y medición estratégica", "indicadores de gestión", "Mejora continua", "optimización de procesos"]
+    }
+  },
+  "oferta_137": {
+    "requisitos_del_puesto_de_trabajo": ["TSU en Riesgos y Seguros, Economía, Mercadeo, Administración o carreras afines", "Mínimo 3 años de experiencia en ventas", "Conocimiento en área aseguradora o banca (reembolsos, siniestros, HCM)", "Experiencia en atención al cliente"]
+  },
+  "oferta_138": {
+    "requisitos_del_puesto_de_trabajo": {
+      "experiencia": ["1 año en cargos similares"],
+      "formacion": ["TSU o estudiantes de últimos semestres de Administración, Economía o carreras afines"],
+      "habilidades_informaticas": ["Excel (intermedio o avanzado)", "Profit Plus (deseable)"],
+      "habilidades_personales": ["comunicación asertiva", "trabajo bajo presión", "organización", "proactividad"],
+      "ubicacion": ["Caracas"]
+    }
+  },
+  "oferta_139": {
+    "Formación Académica": ["Ingeniero(a) Mecánico", "Ingeniero(a) Producción", "Ingeniero(a) Químico"],
+    "Conocimientos Técnicos": ["Procesos industriales", "Manejo de fluidos", "Equipos de bombeo", "Instrumentación", "Mecánica", "Electromecánica", "Electrónica (controles, variadores de frecuencia)", "Preparación de ofertas técnico económicas", "Seguimiento de proyectos", "Bombas de diafragma"],
+    "Habilidades": ["Proactividad", "Orientación al logro", "Alta capacidad organizativa", "Trabajo bajo presión", "Ventas (sector industrial)"],
+    "Experiencia": ["Ventas para el sector industrial", "Ventas a ferreterías"],
+    "Disponibilidad": ["Viajes nacionales", "Viajes internacionales"],
+    "Otros": ["Documentación actualizada para viajar", "Presentación de resultados mensuales"]
+  },
+  "oferta_140": {
+    "requisitos_del_puesto_de_trabajo": ["Profesional en Administración de Empresas, Contaduría Pública o Economía", "Al menos 3 años desempeñando cargos similares", "Manejo intermedio o avanzado de paquete de Office", "Excelente presentación", "Excelente manejo de relaciones interpersonales"]
+  },
+  "oferta_141": {
+    "requisitos_del_puesto_de_trabajo": ["TSU en Administración, Economía, Finanzas o un campo relacionado", "Fuertes habilidades analíticas, con la capacidad de interpretar y analizar datos", "Conocimiento de conceptos comerciales y financieros, como cuentas por cobrar, cuentas por pagar y flujo de caja", "Dominio de Microsoft Excel y otro software de hoja de cálculo", "Excelentes habilidades de comunicación verbal y escrita", "Capacidad para trabajar de forma independiente y en un entorno de equipo", "Experiencia en atención al cliente y cobranzas", "Capacidad para trabajar en un entorno acelerado"]
+  },
+  "oferta_142": {
+    "requisitos_del_puesto_de_trabajo": ["Profesional universitario(a) en Administración, Contadurías o Economía"]
+  },
+  "oferta_143": {
+    "requisitos_del_puesto_de_trabajo": ["Estudiante universitario(a) o TSU en carreras administrativas, Economía o afines", "Experiencia de 1 año en cargos de atención al cliente", "Capacidad analítica", "Habilidad numérica", "Orientado(a) al cliente"]
+  },
+  "oferta_144": {
+    "requisitos_del_puesto_de_trabajo": ["Experiencia en Profit Plus (indispensable)"]
+  },
+  "oferta_145": {
+    "requisitos_del_puesto_de_trabajo": {
+      "formacion_academica": ["Contador(a) Público(a)", "Licenciado(a) en Administración de Empresas", "Ingeniero(a) Comercial", "Ingeniero(a) Industrial"],
+      "habilidades_informaticas": ["Excel (avanzado a intermedio)", "Profit Plus (avanzado a intermedio)"]
+    }
+  },
+  "oferta_146": {
+    "requisitos_del_puesto_de_trabajo": ["Título universitario en Economía, Finanzas, Administración o carreras afines", "Experiencia previa en análisis de crédito, preferiblemente en instituciones financieras", "Conocimiento de normativas y procedimientos relacionados con la industria financiera", "Habilidades analíticas y de comunicación efectiva", "Orientación al cliente y proactividad en la resolución de problemas", "Sólidos conocimientos contables", "Manejo intermedio de Excel", "Persona residenciada en Caracas", "Disponibilidad inmediata"]
+  },
+  "oferta_147": {
+    "Formación": {
+      "nivel_educativo": ["Título universitario", "nivel de educación similar"],
+      "requisito": ["Imprescindible"]
+    },
+    "Experiencia": {
+      "tipo_experiencia": ["ayuda humanitaria", "trabajo en temas políticos, de seguridad y humanitarios"],
+      "ambito": ["MSF", "entes gubernamentales e instituciones de la administración pública del país"],
+      "requisito": ["Preferible", "Esencial"]
+    },
+    "Idiomas": {
+      "idioma_misión": ["esencial"],
+      "idioma_local": ["esencial"],
+      "inglés": ["indispensable"],
+      "francés": ["deseable"]
+    },
+    "Conocimientos": {
+      "informatica": ["MS Excel", "MS Word"],
+      "habilidades": ["analíticas", "comunicación", "diplomáticas", "escritura"],
+      "otros": ["gusto por cifras y datos económicos"]
+    },
+    "Competencias_Transversales": {
+      "competencias": ["Gestión y desarrollo de personas", "Compromiso con los principios de MSF", "Flexibilidad", "Orientación a los resultados y a la calidad", "Trabajo en equipo y cooperación"]
+    }
+  },
+  "oferta_148": {
+    "requisitos_del_puesto_de_trabajo": [
+      {
+        "categoria": "Formación Académica",
+        "valor": "Administración, Estadísticas, Economía o carrera afín"
+      },
+      {
+        "categoria": "Experiencia",
+        "valor": "Experiencia laboral en empresas del sector retail"
+      },
+      {
+        "categoria": "Ubicación",
+        "valor": "Residenciado en Caracas"
+      },
+      {
+        "categoria": "Disponibilidad",
+        "valor": "Disponibilidad inmediata"
+      },
+      {
+        "categoria": "Experiencia",
+        "valor": "Amplia experiencia en el sector retail"
+      },
+      {
+        "categoria": "Habilidades",
+        "valor": "Dominio en estadística y estudios de mercado del sector retail"
+      },
+      {
+        "categoria": "Habilidades",
+        "valor": "Análisis de mercado"
+      },
+      {
+        "categoria": "Habilidades",
+        "valor": "Excelente dominio Excel"
+      },
+      {
+        "categoria": "Habilidades",
+        "valor": "Dominio de SAP"
+      },
+      {
+        "categoria": "Habilidades",
+        "valor": "Persona altamente proactiva"
+      }
+    ]
+  },
+  "oferta_149": {
+    "requisitos_del_puesto_de_trabajo": [
+      {
+        "categoria": "Formación Académica",
+        "valor": "profesional universitario en las áreas: economía, estadística, administración"
+      },
+      {
+        "categoria": "Experiencia",
+        "valor": "amplia experiencia en análisis de márgenes, ventas, y precios de productos comercializados del sector retail"
+      },
+      {
+        "categoria": "Habilidades",
+        "valor": "actualización de portafolio de productos, sector retail"
+      },
+      {
+        "categoria": "Habilidades",
+        "valor": "toma de decisiones oportunas según el dinamismo del mercado retal"
+      },
+      {
+        "categoria": "Disponibilidad",
+        "valor": "disponibilidad (inmediata)"
+      },
+      {
+        "categoria": "Ubicación",
+        "valor": "residenciado en caracas"
+      }
+    ]
+  },
+  "oferta_150": {
+    "requisitos_del_puesto_de_trabajo": {
+      "formacion_academica": ["Licenciatura en Administración de Recursos Humanos", "Relaciones Industriales", "Administración de Empresas", "carrera afín"],
+      "experiencia": ["8 años progresiva y comprobada ocupando posiciones gerenciales en el área de administración de recursos humanos"],
+      "conocimientos": ["elaboración de nóminas", "nóminas de asignaciones no remunerativas", "nómina confidencial", "variaciones e incidencias de nóminas", "movimientos de personal", "liquidaciones de prestaciones sociales", "vacaciones", "utilidades", "intereses de prestaciones sociales", "anticipos de prestaciones sociales", "provisiones de pasivos laborales", "reportes a contabilidad", "administración de beneficios socio económicos", "recibos de pago", "expedientes de personal", "constancias de trabajo", "obligaciones legales y parafiscales (IVSS; BANAVIH; INCES; reportes trimestrales Mintra; FONACIT; FONA; CONAPDIS; LOPCYMAT; INSAPSEL; solvencias laborales; INCES (PNA); cestaticket socialista; tarjeta TodoTicket alimentación)"]
+    }
+  },
+  "oferta_151": {
+    "requisitos_del_puesto_de_trabajo": {
+      "Formación Académica": ["Universitario(a) en Administración, Economía, Ingeniería o carrera afín"],
+      "Experiencia": ["Gestión de ventas", "Administración de presupuestos de ventas", "Inversión en clientes", "Cuentas por cobrar", "Manejo de productos invendibles", "Manejo de FFVV indirecta", "Desarrollo de planes de negocios"],
+      "Conocimientos": ["Procesos de gestión de ventas", "Indicadores de inteligencia de ventas", "Indicadores financieros (P&L)", "KPI de gestión de distribuidores y mayoristas", "Operaciones y logística (facturación, pedidos, despacho)", "Sell in y sell out", "Cobranzas"],
+      "Habilidades": ["Disponibilidad para viajar"],
+      "Sector": ["Ventas", "Consumo Masivo"],
+      "Tipo de Cliente": ["Multicanal (supermercados, distribuidores y mayoristas)"]
+    }
+  },
+  "oferta_152": {
+    "requisitos_del_puesto_de_trabajo": {
+      "Formación Académica": ["Profesional universitario(a) egresado(a) de las áreas: Administración, Economía, Ingeniería o carrera afín"],
+      "Experiencia": ["Conocimientos específicos sobre procesos de gestión de ventas, distribución, cobertura y cobranzas en clientes multicanales directos e indirectos", "Dominio de técnicas de visibilidad y merchandising"],
+      "Habilidades": ["Disponibilidad para viajar por toda la zona asignada"],
+      "Otros": ["Vehículo propio (indispensable)"]
+    }
+  },
+  "oferta_153": {
+    "requisitos_del_puesto_de_trabajo": ["TSU o Licenciado(a) en Contaduría Pública, Economía, Comercio Internacional, Administración de Empresas", "Disponibilidad inmediata y residenciado en Caracas", "Experiencia y conocimiento en todo el proceso de compras, especialmente de insumos alimenticios y repuestos automotrices", "Manejo del sistemas administrativos", "Manejo paquete Office: Excel, intermedio", "Capacidad de negociación, organizado(a), responsable", "Con experiencia en el rubro de repuestos de vehículos y maquinarias"]
+  },
+  "oferta_154": {
+    "Formación Académica": ["Ingeniería de Producción", "Ingeniería Industrial", "Ingeniería Química", "Economía", "Administración de Empresas", "Comunicación Social"],
+    "Años de Experiencia": ["5"],
+    "Competencias Técnicas": ["manejo de herramientas Microsoft Office", "Conocimientos de indicadores", "Manejo de presupuesto"]
+  },
+  "oferta_155": {
+    "requisitos_del_puesto_de_trabajo": [
+      {
+        "categoria": "Formación",
+        "valor": "Título universitario o nivel de educación similar"
+      },
+      {
+        "categoria": "Experiencia",
+        "valor": "Experiencia en ayuda humanitaria, preferiblemente dentro de MSF"
+      },
+      {
+        "categoria": "Conocimientos",
+        "valor": "Fuerte conocimiento de los entes gubernamentales e instituciones de la administración pública del país"
+      },
+      {
+        "categoria": "Experiencia",
+        "valor": "Experiencia de trabajo en temas políticos, de seguridad y humanitarios en el país"
+      },
+      {
+        "categoria": "Idiomas",
+        "valor": "El idioma de la misión y local son esenciales. Indispensable: inglés. Deseable: francés."
+      },
+      {
+        "categoria": "Habilidades Informáticas",
+        "valor": "Conocimientos de informática en MS Excel y Word"
+      },
+      {
+        "categoria": "Habilidades",
+        "valor": "Buenas habilidades analíticas, a gusto con las cifras y los datos económicos"
+      },
+      {
+        "categoria": "Habilidades",
+        "valor": "Excelentes habilidades de comunicación y diplomáticas, incluyendo habilidades de escritura"
+      },
+      {
+        "categoria": "Habilidades",
+        "valor": "Gestión y desarrollo de personas"
+      },
+      {
+        "categoria": "Valores",
+        "valor": "Compromiso con los principios de MSF"
+      },
+      {
+        "categoria": "Habilidades",
+        "valor": "Flexibilidad"
+      },
+      {
+        "categoria": "Habilidades",
+        "valor": "Orientación a los resultados y a la calidad"
+      },
+      {
+        "categoria": "Habilidades",
+        "valor": "Trabajo en equipo y cooperación"
+      }
+    ]
+  },
+  "oferta_156": {
+    "Formación Académica": ["Licenciado en Administración", "Contaduría", "Ciencias Fiscales", "carrera afín"],
+    "Titulación": ["Contador Público Colegiado"],
+    "Experiencia": ["Mínimo 1 año de experiencia en el área Administrativa o contable, con enfoque en tributación"],
+    "Conocimientos": ["Contabilidad general", "Legislación laboral", "Tributación (IVA, ISLR, impuestos municipales, etc.)", "Análisis financiero y gestión de costos", "Elaboración de estados financieros y reportes gerenciales", "Regulaciones contables y fiscales vigentes"],
+    "Habilidades": ["Excelentes habilidades de comunicación oral y escrita", "Alta capacidad de análisis, resolución de problemas y toma de decisiones", "Organización, planificación y orientación al detalle", "Manejo de herramientas informáticas"],
+    "Competencias": ["Analítico y resolutivo", "Pro-activo y orientado a resultados", "Comunicador efectivo", "Trabajo en equipo"]
+  },
+  "oferta_157": {
+    "Formación Académica": ["Licenciado en Administración", "Contaduría", "Ciencias Fiscales", "carrera afín"],
+    "Titulación": ["Contador Público Colegiado"],
+    "Experiencia": ["Mínimo 1 año de experiencia en el área Administrativa o contable, con enfoque en tributación"],
+    "Conocimientos": ["Contabilidad general", "Legislación laboral", "Tributación (IVA, ISLR, impuestos municipales, etc.)", "Análisis financiero y gestión de costos", "Elaboración de estados financieros y reportes gerenciales", "Regulaciones contables y fiscales vigentes"],
+    "Habilidades": ["Excelentes habilidades de comunicación oral y escrita", "Alta capacidad de análisis", "resolución de problemas", "toma de decisiones", "Organización", "planificación", "orientación al detalle", "Manejo de herramientas informáticas"],
+    "Otros": ["Experto en tributación venezolana", "Analítico y resolutivo", "Proactivo y orientado a resultados", "Comunicador efectivo", "Trabajo en equipo"]
+  },
+  "oferta_158": {
+    "educacion": ["Licenciatura en Finanzas, Contabilidad, Administración de Empresas o campo relacionado", "o combinación equivalente de educación y experiencia"],
+    "experiencia": ["Experiencia o capacitación relevante en contabilidad o teneduría de libros", "QuickBooks: 3 años"],
+    "habilidades": ["Proficiencia en QuickBooks Online, Bill.com, OnPay u otras aplicaciones financieras", "Habilidades sólidas de entrada de datos con gran atención al detalle", "Comprensión básica de los principios y las mejores prácticas contables", "Excelentes habilidades de organización y capacidad para gestionar múltiples tareas simultáneamente", "Sólidas habilidades de comunicación y capacidad para trabajar eficazmente con los miembros del equipo"],
+    "conocimientos": ["Principios de contabilidad y mejores prácticas de acuerdo con IFRS, US GAAP u otros marcos contables relevantes"],
+    "idiomas": ["Inglés (Requerido)"],
+    "experiencia_sector": ["Experiencia en contabilidad para una empresa de fabricación o distribución de alimentos (Requerido)"],
+    "tipo_contrato": ["Tiempo completo"],
+    "ubicacion": ["Remoto"]
+  },
+  "oferta_159": {
+    "requisitos_del_puesto_de_trabajo": {
+      "formacion": ["Licenciado en Administración", "Contador Público", "Economista", "carreras afines", "estudios en finanzas"],
+      "experiencia": ["Experiencia como Analista de Tesorería mínimo de 3 años comprobable", "Experiencia en registro de proveedores", "análisis de facturación", "procesamientos de pagos", "cuentas por cobrar", "cuentas por pagar", "inventarios"],
+      "habilidades_tecnicas": ["Conocimientos de herramientas de gestión financiera", "Dominio de paquetes Office"],
+      "habilidades_blandas": ["Excelente capacidad de comunicación oral y escrita", "Gran capacidad de organización y gestión de tiempo"],
+      "conocimientos": ["Conocimientos financieros", "contables", "flujos de efectivo"]
+    }
+  },
+  "oferta_160": {
+    "requisitos_del_puesto_de_trabajo": {
+      "formacion": ["T.S.U o Lic. En Contaduría, Finanzas, administración de empresas o carreras afines"],
+      "experiencia": ["Experiencia sólida y comprobable en el área mínima de 5 años"],
+      "habilidades_tecnologicas": ["Manejo de Excel nivel intermedio – avanzado", "Manejo de sistema administrativo SAP Bussines One"],
+      "ubicacion": ["Preferiblemente residenciado/a en Caracas"],
+      "disponibilidad": ["Disponibilidad inmediata"]
+    }
+  },
+  "oferta_161": {
+    "edad": ["Entre 30 y 40 años"],
+    "nivel_educativo": ["Bachiller"],
+    "experiencia": ["Mínimo 5 años de experiencia comprobable en manejo de camiones"],
+    "competencias_tecnicas": ["Conocimiento en el manejo de vehículos de carga pesada", "Habilidad para realizar inspecciones básicas de mantenimiento preventivo en camiones", "Familiaridad con rutas urbanas y rurales, así como normas de tránsito y seguridad vial"],
+    "habilidades_personales": ["Responsabilidad y compromiso", "Puntualidad y capacidad de trabajo bajo presión", "Buenas habilidades de comunicación para coordinar con el equipo de trabajo"]
+  },
+  "oferta_162": {
+    "requisitos_del_puesto_de_trabajo": [
+      {
+        "categoria": "edad",
+        "valor": "Mayor de 18 años"
+      },
+      {
+        "categoria": "equipamiento",
+        "valor": "Buena cámara de teléfono"
+      },
+      {
+        "categoria": "disponibilidad",
+        "valor": "130 horas al mes"
+      },
+      {
+        "categoria": "personalidad",
+        "valor": "Personalidad amigable y atractiva"
+      },
+      {
+        "categoria": "idiomas",
+        "valor": "Habilidades básicas de conversación en inglés (se valoran otros idiomas)"
+      }
+    ]
+  },
+  "oferta_163": {
+    "requisitos_del_puesto_de_trabajo": ["Inspección y Pruebas", "Documentación", "Mejora Continua", "Cumplimiento Normativo", "Análisis de Datos", "Capacitación", "T.S.U.", "Mayor de Edad", "Experiencia comprobable en el análisis de calidad de procesos de atención al cliente, ya sea escrito o telefónico", "Trabajo presencial en Caracas"]
+  },
+  "oferta_164": {
+    "requisitos_del_puesto_de_trabajo": ["Chofer", "Proactivo", "Responsable", "Licencias de conducir vigentes", "Certificado de salud", "Certificado de manipulación de alimentos"]
+  },
+  "oferta_165": {
+    "requisitos_del_puesto_de_trabajo": ["Tiempo completo", "Proactivo", "Responsable", "Licencias de conducir vigentes", "Certificado de salud", "Certificado de manipulación de alimentos"]
+  },
+  "oferta_166": {
+    "edad": ["30-45"],
+    "nivel_academico": ["TSU", "Licenciado en Logística", "Licenciado en Administración", "Licenciado en Ingeniería Industrial", "Carreras afines"],
+    "experiencia": ["5 años en áreas de almacén", "5 años en logística", "5 años en gestión de inventarios"],
+    "conocimientos_tecnicos": ["Elaboración y optimización de layouts de almacén", "Manejo de WMS", "Herramientas tecnológicas relacionadas", "Procesos de recepción, almacenamiento, distribución e inventario", "Implementación de mejoras en flujos operativos", "Uso de espacio", "Normativas de seguridad industrial", "Manejo adecuado de materiales"],
+    "habilidades": ["Liderazgo", "Capacidad de supervisión", "Planificación", "Organización de recursos", "Resolución de problemas", "Toma de decisiones estratégicas", "Comunicación efectiva", "Trabajo en equipo"],
+    "funciones_principales": ["Diseño de layouts de almacén", "Implementación de layouts de almacén", "Optimización de layouts de almacén", "Supervisión de operaciones diarias del almacén", "Coordinación de operaciones diarias del almacén", "Planificación de recepción, almacenamiento y despacho de productos", "Control de recepción, almacenamiento y despacho de productos", "Gestión de inventario", "Análisis de métricas operativas", "Presentación de informes", "Identificación de áreas de mejora", "Cumplimiento de normativas de seguridad", "Mantenimiento del orden en áreas de almacenamiento", "Liderazgo del equipo de trabajo", "Capacitación del equipo de trabajo"]
+  },
+  "oferta_167": {
+    "Formación Académica": ["T.S.U en Contaduría Pública", "Profesional Universitario en Contaduría Pública", "Carreras afines"],
+    "Experiencia": ["Mínimo 3 años"],
+    "Habilidades": ["Manejo del Sistema Profit", "Cierres Contables", "NIF, NIC, NIIF", "Conciliaciones Bancarias", "Estados Bancarios", "Asientos Contables", "Manejo de Paquete Office"],
+    "Responsabilidades": ["Elaboración de Libros de Compra y Ventas", "Declaraciones de ISLR e IVA"],
+    "Ubicación": ["Maracaibo-Zulia"]
+  },
+  "oferta_168": {
+    "requisitos_del_puesto_de_trabajo": {
+      "educacion": ["Licenciado", "T.S.U", "Estudiante de Contaduría Pública", "Estudiante de Administración", "Estudiante de Economía"],
+      "experiencia": ["1 año (02) en el área"],
+      "conocimientos": ["Microsoft Excel", "Profit Plus Administrativo"],
+      "disponibilidad_viajar": ["No"]
+    }
+  },
+  "oferta_169": {
+    "requisitos_del_puesto_de_trabajo": [
+      {
+        "tipo": "ubicacion",
+        "valor": "Presencial en Caracas, zona céntrica y de fácil acceso"
+      },
+      {
+        "tipo": "habilidades blandas",
+        "valor": "Organizado, responsable y puntual"
+      },
+      {
+        "tipo": "habilidades blandas",
+        "valor": "Buena ortografía, léxico, dicción y presencia"
+      },
+      {
+        "tipo": "habilidades tecnicas",
+        "valor": "Manejo avanzado de Adobe Suite (o equivalentes)"
+      },
+      {
+        "tipo": "habilidades tecnicas",
+        "valor": "Conocimientos de edición de video y animación"
+      },
+      {
+        "tipo": "habilidades blandas",
+        "valor": "Creatividad y atención al detalle"
+      },
+      {
+        "tipo": "habilidades blandas",
+        "valor": "Estilo de diseño minimalista y adaptable"
+      },
+      {
+        "tipo": "habilidades blandas",
+        "valor": "Capacidad para trabajar en equipo y cumplir con plazos ajustados"
+      },
+      {
+        "tipo": "experiencia",
+        "valor": "Familiaridad con estrategias visuales para el sector tecnológico y retail"
+      },
+      {
+        "tipo": "habilidades blandas",
+        "valor": "Disponibilidad para trabajar bajo objetivos y adaptarse a la dinámica de una empresa en crecimiento"
+      },
+      {
+        "tipo": "habilidades tecnicas",
+        "valor": "Preparación de artes finales para imprenta"
+      }
+    ]
+  },
+  "oferta_170": {},
+  "oferta_171": {
+    "requisitos_del_puesto_de_trabajo": ["Experiencia previa como cajera", "Conocimiento de sistemas de punto de venta", "Excelentes habilidades de servicio al cliente", "Capacidad para trabajar de forma independiente y como parte de un equipo", "Honestidad, orden, responsabilidad y puntualidad"]
+  },
+  "oferta_172": {
+    "ubicacion": ["Caracas"],
+    "experiencia": ["5 años"],
+    "educacion": ["Graduado"],
+    "habilidades_tecnologicas": ["Excel (avanzado)"],
+    "habilidades_blandas": ["Excelente presencia", "Educado", "Buen manejo de relaciones interpersonales", "Buen léxico", "Fluidez para comunicar", "Total dominio de redacción, dicción y ortografía", "Organizado", "Atento a los detalles"],
+    "otros": ["Vehículo (deseable)"]
+  },
+  "oferta_173": {
+    "genero": ["femenino"],
+    "edad": ["25-30"],
+    "experiencia": ["contabilidad", "administración", "control de ingresos"],
+    "conocimientos_informaticos": ["redes sociales", "Microsoft Office"],
+    "horario": ["lunes a sábado"]
+  },
+  "oferta_174": {
+    "edad": {
+      "min": [25],
+      "max": [35]
+    },
+    "nivel_academico": ["Técnico Superior Universitario (TSU)", "Licenciado en Mercadeo", "Licenciado en Comunicación Social", "Licenciado en Publicidad", "Licenciado en Administración", "carreras afines"],
+    "experiencia": {
+      "min": [2],
+      "area": ["marketing", "publicidad", "gestión de redes sociales"]
+    },
+    "conocimientos_tecnicos": ["Google Ads", "Meta Ads", "SEO", "Gestión de redes sociales", "Plataformas digitales", "Análisis de métricas", "Creación de informes de rendimiento"],
+    "habilidades": ["comunicación verbal", "comunicación escrita", "creatividad", "innovación", "planificación", "organización", "gestión de proyectos", "trabajo en equipo", "liderazgo"]
+  }
+}

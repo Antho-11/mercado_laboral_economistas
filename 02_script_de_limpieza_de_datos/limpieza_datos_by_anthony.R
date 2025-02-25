@@ -64,7 +64,7 @@ str_length(df_completo$descripción)%>%
 
 
 gooai_studio_url <- "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent"
-api_key <- "AIzaSyBJn8eAI6ypj3MY3fWemQHsXIeQ5gQlGOw"  
+api_key <- "introducir api key"  
 
 # Construcción del prompt
 prompt <- "Eres un experto en análisis de ofertas de trabajo. Extrae en formato JSON los requisitos especificados en la descripción del puesto de trabajo contenida entre triple asterisco***" 
@@ -272,7 +272,7 @@ df_completo <- df_completo%>%
 
 #cargamos datos para el funcionamiento de la api
 gooai_studio_url <- "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent"
-api_key <- "AIzaSyBJn8eAI6ypj3MY3fWemQHsXIeQ5gQlGOw"  
+api_key <- "introducir api key"  
 
 for (i in 1:ofertas_extraidas) {
   
@@ -433,7 +433,7 @@ df_completo <- df_completo%>%
 
 #cargamos datos para el funcionamiento de la api
 gooai_studio_url <- "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent"
-api_key <- "AIzaSyBJn8eAI6ypj3MY3fWemQHsXIeQ5gQlGOw"  
+api_key <- "introducir api key"  
 
 for (i in 1:ofertas_extraidas) {
   
@@ -602,7 +602,7 @@ df_completo <- df_completo%>%
 
 #cargamos datos para el funcionamiento de la api
 gooai_studio_url <- "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent"
-api_key <- "AIzaSyBJn8eAI6ypj3MY3fWemQHsXIeQ5gQlGOw"  
+api_key <- "introducir api key"  
 
 for (i in 1:ofertas_extraidas) {
   
@@ -760,7 +760,7 @@ df_completo <- df_completo%>%
 
 #cargamos datos para el funcionamiento de la api
 gooai_studio_url <- "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent"
-api_key <- "AIzaSyBJn8eAI6ypj3MY3fWemQHsXIeQ5gQlGOw"  
+api_key <- "introducir api key"  
 
 for (i in 1:ofertas_extraidas) {
   
@@ -906,7 +906,7 @@ parte_2_prompt <- '*** unicamente vas a analizar y clasifícalar en las categor�
 
 #cargamos datos para el funcionamiento de la api
 gooai_studio_url <- "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent"
-api_key <- "AIzaSyBJn8eAI6ypj3MY3fWemQHsXIeQ5gQlGOw"  
+api_key <- "introducir api key"  
 
 for (i in 1:10) {
   
